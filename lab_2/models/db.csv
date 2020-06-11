@@ -1,0 +1,2651 @@
+
+
+*****************************model Users*****************************
+firstName,lastName,username,dateOfBithday
+David,Breaux,DavidBreaux,1993-05-16
+Mildred,Soto,MildredSoto,1992-07-20
+Michael,Greene,MichaelGreene,1979-09-18
+Alva,Holbrook,AlvaHolbrook,1978-07-19
+Stanley,Butler,StanleyButler,1983-05-04
+Reid,Wild,ReidWild,1961-01-19
+Wayne,Martin,WayneMartin,1984-11-19
+Justin,Law,JustinLaw,1997-08-08
+Harold,Quinn,HaroldQuinn,1997-08-01
+Randy,Sherman,RandySherman,1989-03-31
+Lawrence,Stafford,LawrenceStafford,1989-05-27
+Sandra,Hodges,SandraHodges,1971-03-12
+Elizabeth,Militello,ElizabethMilitello,1977-09-15
+Marie,Smith,MarieSmith,1999-01-30
+Robert,Bianchi,RobertBianchi,1980-12-13
+Tommy,Wilson,TommyWilson,1962-02-17
+Nicole,Jaramillo,NicoleJaramillo,1996-07-18
+John,Guzman,JohnGuzman,1999-09-12
+Ronald,Velasquez,RonaldVelasquez,1979-05-18
+Renee,Aguinaga,ReneeAguinaga,1964-03-27
+Michael,Miller,MichaelMiller,1995-01-06
+Alfred,Montes,AlfredMontes,1982-12-08
+Eugene,Snipes,EugeneSnipes,1979-01-01
+Joan,Gardner,JoanGardner,1966-07-03
+Gabriel,Johnson,GabrielJohnson,1990-07-18
+John,Wingate,JohnWingate,1984-02-22
+Michael,Smith,MichaelSmith,1969-08-01
+Nancy,Campbell,NancyCampbell,1978-06-06
+Donna,Oneal,DonnaOneal,1974-04-09
+Patricia,Bannister,PatriciaBannister,1960-08-04
+Donna,Berry,DonnaBerry,1973-10-06
+Kimberly,Ogden,KimberlyOgden,1967-06-07
+Nicolas,Peterson,NicolasPeterson,1990-07-05
+Nicholas,Spiney,NicholasSpiney,1982-10-14
+Angela,Winkles,AngelaWinkles,1976-09-14
+Ora,Turner,OraTurner,1964-04-03
+Joel,Sippel,JoelSippel,1961-11-05
+Sarah,Adelman,SarahAdelman,1971-07-22
+William,Mccaskill,WilliamMccaskill,2001-04-03
+Daniel,Adragna,DanielAdragna,1999-02-02
+Marlene,Eggleston,MarleneEggleston,1994-10-21
+Andy,Signs,AndySigns,1966-04-25
+Charles,Gregoire,CharlesGregoire,1961-01-14
+Joseph,Bacher,JosephBacher,2000-01-08
+Don,Rome,DonRome,1975-02-07
+Janice,Collins,JaniceCollins,1991-09-21
+Mary,Midgette,MaryMidgette,1985-07-28
+Arden,Williams,ArdenWilliams,1965-11-18
+Ella,Hurt,EllaHurt,1970-09-11
+Erik,Smith,ErikSmith,1961-01-23
+Margaret,Cunningham,MargaretCunningham,1994-09-23
+Norma,Millis,NormaMillis,1985-03-23
+John,Hou,JohnHou,1967-03-14
+Steven,Kauffman,StevenKauffman,1982-06-10
+Jessica,Slater,JessicaSlater,1998-02-20
+Mary,Dawson,MaryDawson,1983-12-12
+Jimmie,Lesnick,JimmieLesnick,1991-07-03
+James,Johnston,JamesJohnston,1991-05-30
+Dianne,Washington,DianneWashington,1995-03-12
+Jessie,Hernandez,JessieHernandez,1984-11-27
+Belinda,Lowe,BelindaLowe,1986-11-10
+Matthew,Rivers,MatthewRivers,1969-03-05
+Rosa,Warren,RosaWarren,1970-04-08
+Megan,Burrell,MeganBurrell,1975-03-02
+Patricia,Wilson,PatriciaWilson,1980-07-07
+Robert,Laflamme,RobertLaflamme,1996-08-28
+Thomas,Seymour,ThomasSeymour,1987-02-14
+Cindy,English,CindyEnglish,1999-02-11
+Timothy,Piercy,TimothyPiercy,1996-07-12
+Rita,Elizondo,RitaElizondo,1982-09-20
+Herbert,Abbott,HerbertAbbott,1988-01-30
+James,Joyner,JamesJoyner,1990-05-15
+Kenneth,Neil,KennethNeil,1988-11-12
+Leroy,Gonzalez,LeroyGonzalez,1994-06-22
+Joe,Mcmillan,JoeMcmillan,1999-04-14
+Cynthia,Adamson,CynthiaAdamson,1997-07-22
+Patricia,Burton,PatriciaBurton,1969-10-28
+Emma,Melendez,EmmaMelendez,1981-08-30
+Gregory,Rust,GregoryRust,1985-05-07
+Diamond,Kelly,DiamondKelly,1992-07-25
+Karl,Cummings,KarlCummings,1975-02-28
+Pearle,Daniels,PearleDaniels,1968-02-15
+Scott,Shull,ScottShull,1979-07-29
+Betty,Harris,BettyHarris,1967-09-17
+James,Sullivan,JamesSullivan,1988-12-25
+Laura,Hart,LauraHart,1972-06-15
+Robert,Godwin,RobertGodwin,1978-01-16
+Melanie,Adams,MelanieAdams,1985-03-14
+Brian,Burns,BrianBurns,1965-08-05
+Mildred,Jones,MildredJones,1999-12-10
+Juanita,Martinez,JuanitaMartinez,1974-03-16
+Linda,Brown,LindaBrown,1979-06-10
+Daniel,Hayes,DanielHayes,1975-11-16
+Donald,Worth,DonaldWorth,1987-09-14
+Sylvia,Baranowski,SylviaBaranowski,1992-03-08
+Anthony,Godinez,AnthonyGodinez,1961-04-10
+George,Rodriguez,GeorgeRodriguez,1976-04-24
+Lorna,Larry,LornaLarry,1978-05-07
+Brenda,Foster,BrendaFoster,1986-03-25
+Jessica,Smith,JessicaSmith,1969-12-06
+Maude,Johnson,MaudeJohnson,1976-04-11
+Eugene,Dodd,EugeneDodd,1960-10-22
+Evelyn,Adams,EvelynAdams,1998-05-08
+Margaret,Schroeder,MargaretSchroeder,1973-06-07
+Pete,Bonilla,PeteBonilla,1988-01-27
+Brandon,James,BrandonJames,1975-02-13
+Laura,Tozier,LauraTozier,1973-06-04
+Georgia,Bostic,GeorgiaBostic,1994-04-10
+Donald,Wells,DonaldWells,1986-08-14
+Barbara,Steveson,BarbaraSteveson,1987-12-10
+Billy,Soto,BillySoto,1979-03-23
+Denice,Wolfe,DeniceWolfe,1974-05-24
+Lily,Jackson,LilyJackson,1967-05-14
+Jose,Maurer,JoseMaurer,1993-12-23
+Tyrone,Houchin,TyroneHouchin,1970-02-04
+Melissa,Ellis,MelissaEllis,1994-11-17
+John,Jones,JohnJones,1965-09-08
+Rex,Baldwin,RexBaldwin,1974-07-11
+Michael,Gossett,MichaelGossett,1968-04-03
+Douglas,Morgan,DouglasMorgan,1974-02-28
+Christian,Michels,ChristianMichels,1972-10-07
+Ed,White,EdWhite,1981-02-24
+Paul,Hess,PaulHess,1994-11-23
+Deborah,Tureson,DeborahTureson,1963-01-04
+Candace,Colon,CandaceColon,1991-03-30
+Ron,Huseby,RonHuseby,1991-10-22
+Janis,Flanigan,JanisFlanigan,1960-09-14
+Christopher,Tucker,ChristopherTucker,2000-10-27
+Delilah,Tillery,DelilahTillery,1979-02-17
+Martha,Moore,MarthaMoore,1992-01-13
+Lana,Betts,LanaBetts,1979-01-03
+Wilma,Brundage,WilmaBrundage,1977-07-12
+Linda,William,LindaWilliam,1999-06-06
+Karen,Herbst,KarenHerbst,2001-09-15
+Luis,West,LuisWest,1975-05-23
+Thomas,Stancil,ThomasStancil,1967-05-24
+William,Senay,WilliamSenay,1963-05-13
+Bertha,Moore,BerthaMoore,1968-04-17
+Tyson,Herrera,TysonHerrera,1975-01-23
+Lisa,Morris,LisaMorris,1970-10-11
+Hoa,Zeller,HoaZeller,1976-04-26
+Justin,Marshal,JustinMarshal,2001-02-08
+Benita,Adair,BenitaAdair,1962-04-02
+Leah,Farmer,LeahFarmer,1990-02-13
+Antonio,Langley,AntonioLangley,1963-02-21
+Bonnie,Mccoy,BonnieMccoy,2001-03-08
+Ryan,Yurek,RyanYurek,1974-07-26
+Martha,Krout,MarthaKrout,1961-11-04
+Robert,Terry,RobertTerry,1990-02-01
+Myles,Conrad,MylesConrad,1971-02-21
+Rebecca,Rameriz,RebeccaRameriz,1977-08-10
+Paul,Cowles,PaulCowles,1983-01-29
+Mary,Prichard,MaryPrichard,1990-08-03
+Brittny,Thayer,BrittnyThayer,1998-09-17
+Reva,Robinson,RevaRobinson,1997-03-24
+Troy,Donatello,TroyDonatello,1969-09-29
+Wilma,Martin,WilmaMartin,1968-01-18
+Ted,Christmas,TedChristmas,1981-11-03
+Randy,Carmack,RandyCarmack,1992-10-03
+Christopher,Williams,ChristopherWilliams,1972-08-22
+Peter,Ross,PeterRoss,1994-09-06
+Dan,Lyle,DanLyle,1986-09-08
+Isaac,Kittelson,IsaacKittelson,1987-02-09
+Ellen,Bommarito,EllenBommarito,1987-02-04
+James,Nunez,JamesNunez,1987-07-26
+Patricia,Lindhorst,PatriciaLindhorst,1996-01-17
+Joan,Veltman,JoanVeltman,1967-12-12
+Everett,Allen,EverettAllen,1968-05-16
+Gerard,Orona,GerardOrona,1992-09-27
+Louis,Jamison,LouisJamison,1992-05-13
+Phyllis,Harbin,PhyllisHarbin,1969-12-13
+Mary,Lewis,MaryLewis,1980-05-15
+Joseph,Reyna,JosephReyna,1995-02-09
+Jeffrey,Vanhorne,JeffreyVanhorne,1986-12-30
+Marvin,Hales,MarvinHales,1990-04-17
+Eddie,Williams,EddieWilliams,1961-11-16
+Jordan,Trevethan,JordanTrevethan,1997-04-03
+Mia,Shaffer,MiaShaffer,1973-07-05
+Joshua,Hardy,JoshuaHardy,1991-05-11
+Brady,Braddy,BradyBraddy,1962-02-23
+Steven,Cypert,StevenCypert,2001-08-18
+Barbara,Miller,BarbaraMiller,1995-07-02
+Stephen,Clark,StephenClark,1996-05-09
+Ashley,Robertson,AshleyRobertson,1966-09-28
+Marion,Oneill,MarionOneill,1986-10-28
+Robert,Mahan,RobertMahan,2001-07-20
+Glenn,Mcbride,GlennMcbride,1984-05-01
+Laverne,Mcdowell,LaverneMcdowell,1989-02-16
+James,Heath,JamesHeath,2000-08-18
+Danielle,Bloom,DanielleBloom,1987-08-23
+John,Wilmoth,JohnWilmoth,1979-10-05
+Douglas,Fleshman,DouglasFleshman,2001-09-28
+Jason,Lopez,JasonLopez,1962-04-24
+Shaun,Romero,ShaunRomero,1973-09-15
+Mark,Jones,MarkJones,1967-03-06
+Kimberley,Elmendorf,KimberleyElmendorf,1992-10-31
+Alexander,Barker,AlexanderBarker,1963-02-09
+Robert,West,RobertWest,1972-11-11
+David,Bodkin,DavidBodkin,1987-09-12
+Hugh,Barbour,HughBarbour,1977-06-02
+Jose,Kinder,JoseKinder,1973-07-28
+Jason,Lewis,JasonLewis,1975-08-03
+Lee,Roby,LeeRoby,1976-06-01
+Sonia,Frankum,SoniaFrankum,1983-08-28
+Paris,Callaway,ParisCallaway,1981-08-14
+Daniel,Green,DanielGreen,1965-12-14
+Raquel,Lewis,RaquelLewis,1989-01-31
+Stanley,Roberts,StanleyRoberts,1966-01-16
+Randy,Watson,RandyWatson,1987-08-13
+Julie,Scheumann,JulieScheumann,1988-10-26
+Jennifer,Hernandez,JenniferHernandez,1994-04-21
+Eleonora,Doherty,EleonoraDoherty,1984-07-30
+Frank,Keith,FrankKeith,1985-04-29
+Jerry,Howard,JerryHoward,1996-05-17
+James,Heilman,JamesHeilman,1963-06-20
+Lee,Claar,LeeClaar,1965-06-13
+Faye,Laford,FayeLaford,1977-07-25
+Evelyn,Eddins,EvelynEddins,1971-08-17
+Jennifer,Newsome,JenniferNewsome,1998-09-07
+Bobby,Herrera,BobbyHerrera,1990-03-27
+Caitlin,Hanavan,CaitlinHanavan,1979-11-21
+Wai,Kempf,WaiKempf,1978-09-29
+Kimberly,Pullen,KimberlyPullen,1962-04-21
+Judith,Tester,JudithTester,1994-12-03
+Carla,Hurst,CarlaHurst,1984-11-06
+Andrew,Collins,AndrewCollins,2000-06-07
+Melvin,Chapman,MelvinChapman,1973-02-13
+Michael,Miller,MichaelMiller,1978-12-08
+Margarita,Mercado,MargaritaMercado,1997-05-31
+Marquerite,Richardson,MarqueriteRichardson,1995-11-13
+Alan,Berg,AlanBerg,1989-09-22
+Connie,Martin,ConnieMartin,1985-11-16
+Don,Wood,DonWood,1966-02-04
+Samuel,Brown,SamuelBrown,1961-11-06
+Melissa,Rival,MelissaRival,1961-07-12
+Shawn,Timm,ShawnTimm,1973-12-21
+Tyrone,Reed,TyroneReed,1995-05-02
+Felipe,Cummings,FelipeCummings,1974-12-22
+Gerald,Rivas,GeraldRivas,1961-01-19
+Marcelino,Quirk,MarcelinoQuirk,1984-09-24
+Lennie,Troxell,LennieTroxell,1986-03-04
+Chester,Bates,ChesterBates,1973-01-18
+Jane,Smith,JaneSmith,1990-03-01
+Ronald,Brown,RonaldBrown,1969-10-21
+Beatrice,Rooney,BeatriceRooney,1986-02-07
+Yvonne,Seedorff,YvonneSeedorff,1990-06-14
+Daniel,Elmore,DanielElmore,1996-05-13
+Zachary,Fogarty,ZacharyFogarty,1998-02-28
+Geraldine,Meredith,GeraldineMeredith,1982-01-31
+Danny,Early,DannyEarly,1989-02-27
+
+
+*****************************model Languages*****************************
+name
+Mandarin Chinese
+Spanish
+English
+Hindi (Sanskritised Hindustani)[9]
+Bengali
+Portuguese
+Russian
+Japanese
+Western Punjabi[10]
+Marathi
+Telugu
+Wu Chinese
+Turkish
+Korean
+French
+German
+Vietnamese
+Tamil
+Yue Chinese
+Urdu (Persianised Hindustani)[9]
+Javanese
+Italian
+Egyptian Arabic
+Gujarati
+Iranian Persian
+Bhojpuri
+Min Nan Chinese
+Hakka Chinese
+Jin Chinese
+Hausa
+Kannada
+Indonesian (Indonesian Malay)
+Polish
+Yoruba
+Xiang Chinese
+Malayalam
+Odia
+Maithili
+Burmese
+Eastern Punjabi[10]
+Sunda
+Sudanese Arabic
+Algerian Arabic
+Moroccan Arabic
+Ukrainian
+Igbo
+Northern Uzbek
+Sindhi
+North Levantine Arabic
+Romanian
+
+
+*****************************model Tags*****************************
+name
+Action
+Adventure
+Fighting
+Platform
+Puzzle
+Racing
+Role-playing
+Shooter
+Simulation
+Sports
+Strategy
+
+
+*****************************model Creators*****************************
+name
+churchmen pyrometer,28
+will Batchelder,9
+cast occasion,25
+Medusa Mukden,21
+invulnerable dispel,4
+Nolan Andrei,29
+Jorgensen madstone,20
+whorl wive,1
+teeth Maximilian,9
+tributary eel,19
+burgher gym,1
+alter Amoco,21
+plight adjunct,29
+irredentist sycophant,7
+loaves tuberculin,1
+Perseus ducat,25
+manicure occur,18
+Elizabeth hour,8
+subtrahend drake,25
+mimosa gadolinium,30
+almond librettist,27
+probationary slag,4
+darkle sheer,24
+genre ceasefire,24
+Hereford tribunal,23
+oneself loaves,17
+stoic decibel,10
+Frenchman rescind,29
+O'Leary orthodontist,13
+resultant apiece,16
+equinox vex,26
+ladybug less,22
+crave inessential,18
+thermostat Yvette,22
+validate insupportable,3
+manumission stake,17
+calf Copernican,17
+jut inhabitant,16
+unit ani,16
+aseptic grand,23
+Schwab ridicule,19
+Kafka snarl,6
+councilwomen opponent,8
+afferent wrapup,7
+plate Porto,8
+lagoon parallelogram,12
+rapprochement identical,15
+firelight splice,18
+Sarah twirl,1
+Ithaca vellum,17
+
+
+*****************************model Games*****************************
+name,description,price,systemRequirements,creatorID
+gly,In Arlington females up to $420 million annually for filmmaking within,871.16,Tectei,37
+Aatingmorshe,Characterize the set sail from the,349.85,Object,35
+suchsedale,Manumitted." This medieval times. and Audi 13 times (as of 2013) In,637.69,itionc,36
+andinioutthence,Diseases.  Theodiscus). derived from,259.52,ush,44
+ba.,Features: keiretsu (Hdt. 1.202.4.,253.81,sifor,8
+aanceacAmand,Veterans Affairs being deliberately designed,530.24,1963).,11
+Soude13.8%lized,Physics present prosperous and cosmopolitan centre of,119.12,ankin,20
+varycom,Feral cats liquid methane and other mining. seafood,732.0,lamate,14
+508).DilandTrents,These dealings planets almost perfectly. However. these laws criminalized,720.74,tyric,11
+therAsigar,(19.233 mi). BC.–AD. 200). By 1370. the Chinese Psychological Society (1937). Chinese psychologists were,976.22,cousit,45
+offrupprothe,Allow lawyers “very real” on Reality-related scales. etc. However. deviations,578.47,a,21
+theyFerCent,Americas. is warring casualty rate was 101-132/1000 live births. in 2000 after a,216.57,of,4
+ingetwook,Renewal. Kirk powers as,162.92,Secati,37
+gares.et,Of Finance. by ocean currents,820.82,cong,37
+Citya,Bernard Williams longitude; and the,210.23,Wes,44
+prominMar,Of active physiological psychologists use paper-and-pencil surveys. However. surveys are increasingly using,300.09,volows,32
+forinf,Docking stations. It is now known as voluntary,331.6,nown,37
+ofiese,Manuscript known negative perception of a discrete number,382.84,usties,36
+areiveEthe,Product–moment correlation Department reported that men and 75 per cent of Earth's land,70.5,wity,3
+revely,Area began parties. Obama. and,760.82,mormal,39
+etALL.A.ontion,Machines. remote-control separated from the decline. whereas,868.58,cause,39
+theitaterMon,Downtown. partly local name of a few countries. there has,410.07,const,25
+hurope,Million and from region to,381.65,by,37
+incedithosidand,Considered right This discourages drivers from,368.57,mosere,19
+areasmaitere,Usage peaks. The conflicts that arose criticism from France's youth culture.,51.02,call,19
+nattle,Slav tribes the Hōjō clan came to the natives. even those of,791.43,and,13
+Purivi,And 140 (Ethernet. HomePNA. power line communication. G.hn). optical fiber (fiber-optic communication). and radio galaxies.,245.71,Citica,48
+be,Reactions normally non-zero mass. These experimental results do not,257.64,wity,31
+thebuto,Sponges. jellyfish. by Hugh,983.17,to,19
+taflempaink,Of voter development. moving freight into Alaska while transporting natural resources of,69.37,int-fu,21
+ofGreagiighein,(139.43 million Carnegie-funded Eugenics Record Office. the Draper-funded Pioneer Fund.,980.55,Tres,35
+hasstscom,Bipartisan independent and neurosurgery. Seattle has the largest cities with,203.72,sch,24
+waveha,Appointed by growth. self-actualization. self-identity. death. aloneness.,342.69,In,15
+usentathe,The Lutheran foundation concepts in social media,581.61,ing,20
+scheme,First political Olympics. In 2007. Seattle's racial tie-breaking,97.08,unt,15
+km),Nahuatl. Because Germany. By the beginning of 2012. Hinduism has around 1.400 staff in the,76.06,ouncri,5
+Holl,By high-energy (JMSDF) is a Western culture are mainly indicators of Canada's constitution,471.99,anglet,10
+Oyold.,Was divided extensive river systems and processes throughout the U.S. Congress,184.17,Thes,10
+dir,Aircraft. as these regions in Europe. Vargas's position,604.38,con,9
+as,Or congenital are valid in,625.91,ceserp,44
+inmundThe,Procedure of and ravines. In some countries. litigants have the capacity to exchange information,53.82,The,43
+thout,East. while by humans. In the history,544.17,educt,35
+ofse,Against suspects. world's affairs.,794.6,come,27
+wasethalslospe,225 million types during,143.3,Natuar,18
+lationthey,Oil. largely group usually achieve moderate or deep vertical extent. but without,12.94,Japher,34
+theall,Utilize potentials public utilities and 3% receive water from the most,481.93,explia,15
+19theiamatice,Major American of solving particular problems with existing theories.,655.64,is,42
+the,Southeastern border antagonist groups.,514.57,ance,14
+chnisuin,Chicago; Willis Europeans. In 1521. the Spanish,738.24,By,39
+trucal,This surgery called units.,222.03,"al,37
+cingreartsneeldr,States. reflected liberal and progressive for the correct drug for the color of their original,351.74,physta,33
+ligh,Oxygen atom: References to articles: Subregions of Asia from the higher-density,809.4,mens),41
+Int,Lands were than any other state. California,619.32,andito,43
+orhurmspoon,Treatments outside discipline. Dewey integrated psychology with the rest of the 19th century. however.,852.25,a,28
+antExamme,Result has and GJ 1214,960.13,0.,8
+LarisK.,Oath of Chinese citizen to be isolates (e.g. Haida) or have not,281.78,cards,25
+sphoutBlatmande,Munich. and 85.7% for India. Sub-Saharan Africa (most notably the Great,36.15,The,39
+incess,Consent from and then store them in,277.36,ted,38
+arld.projar,Official language Acceptance Criteria. Identify the response times of day. Some such systems.,856.92,pudial,50
+ast,In 2009 Predators may or may have developed several life-threatening illnesses. and,809.01,lemiza,8
+Asiturmes.pe,Center (demolished Vast expanses of wheat. other cereal crops. vegetable crops. cotton. and nut,726.19,3.,42
+By,And ensembles. in several,506.02,Beavel,23
+eatemeanan,Explanatory hypotheses. Salernitana in Salerno. looking to flee,308.78,Chark.,26
+latedad,Act. adopted "behold") is the primary election. one candidate receives more than a thousand. The,208.39,Pacted,1
+Theton,Antoninus Pius a description of the Japanese concept of time to print on,464.77,of,34
+arthcaof,(88.8%). with main precipitating cloud systems of investigation are fragile in the written word,201.87,ormall,34
+a,Termed type-safe investigation of critical path and recommendation of corrective action,339.83,of,40
+othedationan:,Dakota near a bridge (or. less often. an underpass) will be the first Romanian,251.89,atera,42
+latuthAireck,Motorways per mostly of the constitutional court to Lisbon (as postulated by the,780.46,sough,26
+Amedconech,Large amount 2012 statistics available,709.98,lact.,44
+Josoingin,Guillermo del Germany was bound by weaker,470.27,Nazata,3
+ithst,In cyber of genus types already included in the New York,445.77,Intwer,11
+Wationofinoto,Annexed a new genus. it is imperative for people over age 15 had completed,607.47,th,14
+MareeofAztedi,Its strategic less reliant on agriculture.,832.02,sold,34
+wareascricapar,Electorate of uses about 5.5% of the world's,300.89,thical,48
+untraltolledof,Plan may policy. as well as the ground for European eels,563.74,of,12
+frostyThonec,Totalitarian regimes has strictly oceanic climate – it extends inland for a family was $54.188.,612.4,exch,16
+spermiwhordusexi,Christofilos in a short-lived,252.68,derre,18
+hothe,Groups. a triple point,152.94,("weem,17
+thea,The tested Russia. Brazil. France. the largest music market in the,443.98,thert-,20
+composis,Borough in Puerto Deseado. Puerto Madryn.,111.35,andivi,26
+Itssque.,Both achievements air pollution (NOx. suspended particulate matter. and only,28.67,ch,49
+del,Equity (friværdi)). are iterations. recursions. interleavings. or orderings of the early 1800s. "programs.,964.8,Wheasu,40
+afed,Uplands in for America's Health. based on quantum,226.45,funt,15
+funatby,(2005). "The the capital. In his book De rerum natura,240.06,tweves,19
+theus.,Economists to itself using its acute sense of connectedness with real,499.35,war).,8
+Ricali,The de of passerines,323.48,ripers,25
+UnimetpreRobale,Stations broadcast those situations. It is sometimes,648.31,marimi,2
+mose,Periods as level. they can treat their subject from,134.83,11.46,30
+apentuAtlandLing,Extinguished the Palace & Tower in Chicago.,133.78,Unityw,18
+the,Distinct.  2002 the economic crisis began to decline,746.39,inguag,44
+suarit,The procedural is Greek. it is one of the Canada–United States border. Approximately,264.04,voloth,41
+entied,Lights. or written once and their,562.96,ce,34
+sagme,Yonghwan Kim. language (without reference to aridity; but,539.22,ce,43
+(WANOA,Her offspring. influential throughout the Bahamas. They settled mostly on ultimate or "why?" questions!,155.75,sial,14
+Gredmance,Emperor. Japan was privatized,504.12,ust,7
+besithcassit,Matter) in Subsequent similar,896.44,aved,49
+aoreof,Accredits and Army. 5.300 in the past. Feminist women's historians,329.29,sper,20
+Com,Cool. wet Champlain Valley as its state income tax.,796.1,of,8
+Onjortiva,Macaws and political struggles to control the,209.88,a,22
+knotclogetwor,Masses.  (Air Force). Bundeswehr Joint Medical Service and Streitkräftebasis (Joint Support Service) branches. In,451.87,sidain,36
+km2).indobara,Shadows) by suffering. With limited trade. the people of southern Tonga. These,991.68,sinfor,48
+"musad,To Britain. Data Collection Viewable on-line,349.15,ing),37
+Ind,Also distinct the greatest,356.35,Julari,21
+fordconalPole,Militarization along programmer hours. a different type of online advertising enables much more tropical,321.03,In,47
+altherly,Chance and Tiffany glass dome. Grant Park and Jackson Parks.    The use,457.37,surals,24
+EactiaassinA,Newspapers goes a huge growth (+56%) of the nation's,578.23,apaid,17
+dre,Contains Glacier who would soon become Edward III of Portugal divided the region had,798.43,med,24
+forcrics:,The Premier speech or other command-line interface.,153.11,grolio,44
+7004):,Also states were expelled. power was further weakened by the new competitors,729.82,raffer,4
+hation,Of communities Édouard Lalo (best known for the 17th-century Duke of,573.86,isequa,42
+there,Generally accepted. form zygotes.,592.91,Yventr,32
+artofof,Societies" by reforms of Mikhail Gorbachev and the self-financing capacity of a republic in central-western,866.67,NJ:,16
+Dirounext,And ruling other indicators (e.g.. income or socioeconomic class). The,485.25,vativi,5
+whiticon,LL.B or Atlantic Multidecadal Oscillation (AMO) or to perform,517.21,Ton.,32
+This,Argon. carbon "cold". "semiarid" or "coastal". The characteristics of,461.66,hic,13
+shichwat,Chandra Sturrup. principles can also be a failure may be present only in comparison,888.26,ad,48
+tindfor,Companies has Paul Andreu.   The Strahler Stream Order ranks rivers based on existing,940.43,indle-,34
+theres,A prototype. ceremonies and conventions. Slavery among the top priorities of his,588.84,Island,36
+bodifo,000 t audience in 1895. Several important,372.02,Bobsed,26
+infundmonomy,Hotbed for other country. although the last Mexican governor of California. San Diego.,387.0,twes,30
+domymilyin,Updates. according from Nazi Germany. Metropolitan France has numerous megalithic sites from the Andes. Zonda,805.01,having,31
+Famoduas,Recently smaller Map makers were,264.43,natowe,9
+comcountaisical,Is exactly or stone and papyrus. Papyrus is what you get." Over historical time spans,741.32,444-19,45
+wan'tusts.,Denotes doing Lutheranism or the equivalent college in the,950.1,Ice,26
+"Japeallowing,1968 to columns that express the personal computer. among,233.58,Senha,2
+ine,Churches is enacted that prescribed punishment for,651.91,for's,12
+nothis,Another form industry represents,350.47,de.,42
+there,Denmark peacefully sentiment.    According to the Coriolis effect. The simple systems,995.65,ove,44
+inin,Baroque style. scales. For example.,92.26,Eurize,25
+the,Trade; coquinaria countries about commenting on his land from 160 to 320 acres,396.62,synath,39
+Canucast,Champion and mid-1980s. Over,171.79,hom,17
+anypapare,Engineering.  share excess kill with others using canoes for the U.S. House. having,811.65,197912,14
+angwhisor,With genetics experimental results do not include later,659.5,of,46
+mod(fed,Hybridization poses a 42.,105.75,operes,33
+thewhe,(the senior) and Yucca Corridor.,411.18,st,41
+atentrwasReprow,Make better 2013 United,283.89,As,45
+thedeest,As implausible. are oxidised to carbon dioxide,245.95,ishys,12
+SurfamIrallapany,Organize into software. digital cameras and other seafarers have reported that men are more than,329.88,Outi-p,45
+por,Crown promulgated old. cosmosmagazine.com More information about S. Vigo then defines the "legal,123.32,les,9
+experahampedComp,(forming clouds). oceans within tens to hundreds,55.28,mation,12
+stedsurwither,News Association. department provides,885.36,A,28
+theInd,Difficult time any differentiable,744.84,193,18
+ofsea,River State shape dates to 30.000-40.000 years ago. A half billion years ago.,28.51,dintin,22
+reartabern,Absolute monarchy perpétuels (1919). the,576.64,letero,23
+rac,Dennis to of virtually,55.02,a,2
+chista,The final. – includes articles,246.35,toral,44
+chBrepri,Would keep help detect the direction of,117.15,pulave,42
+No.amssoregi,By optimism. Medal. Diamond Ball.,727.25,he,31
+trybyIn,Música sertaneja (dubbed "sentimentitis"). which may be written once,306.66,in,9
+of,Linear B. surface dust. The longer wavelengths of the Rights of Man,437.94,chic,35
+to,Protected on as Horn clauses by allowing,130.94,ing,46
+mandev,And towering city further national attention. Many of the points used by Michel Bréal.,547.53,tion.,47
+gramis°F).ets,Several vegetarian the English-speaking Americans. General Antonio López de Legazpi and sailed the,79.48,ca,38
+ford,Volcanic islands. as symbols of a viral infectious disease ravaged Mesoamerica in the,339.29,nit/sh,19
+te.,Mm/yr. Over as 4. In,149.92,ot,19
+stryde.Comic,A "filter" junctions in some states almost double of every operation defines types,920.58,Ther,42
+gratit,Sharp increase by conducting experiments. Under modern interpretations. a,601.07,high,28
+takineCentis,Variety has World monkeys are found towards the,473.91,Chingu,3
+dedeepathe,Now owned lakes (563 greater than approximately one millimeter. Radio astronomy uses X-ray wavelengths.,533.29,aboudi,49
+nostruthe,Sugar cane. recorded history. such as in Greece. Few parrots are,803.58,trikos,45
+bege,Media JP/Politikens were smiths. People called Smith reported above-average aptitude for activities involving strength in,163.37,(ontes,50
+es,Banana. fried bonds or functional groups in the world. thereby filling in the mid-20th,659.77,pramit,50
+antera,Culture". which Africa was one of many words and fixed rules for,817.55,Rood.,29
+YugglaOneafte,Production to "The Most Beautiful Villages,892.43,artury,12
+itioncHosiptcon,Chinese have serves four-year terms. The parliament may impeach the president. Under the,585.37,the,31
+inclec,See Japan (or just compound if used in a,339.43,elly,22
+reightcludecity.,Both sides lake remain relatively undisturbed,665.36,Edgess,13
+Casorkmory,Borne by ed. Remains Concerning Britain. Toronto: University of Manchester,270.62,Suntem,9
+atigh,The Gloria is conserved.,79.71,Slacri,12
+insof,In France. The right act is conserved). and can fly across continents without a state,160.23,the,34
+porty.,Of artifacts the airflow reaches the same,737.89,itated,15
+Thertinany,A genetic attracting migrants from other animals which have significant agricultural industries that depend,426.36,of,11
+ingitas,Energy; a mechanical engineering. digital,560.57,nom,11
+as,Cumans. From Lines. Cuzco. Belo Horizonte. Lake Titicaca. Salar,45.75,(whign,34
+learytheand,Subsequently gaining or wrong?" "What are,468.12,torize,37
+ines.ina–Unch.,Legislature is sports. or,482.03,ing,34
+Wat,Godiva are short-lived because their beam intensity was lower than that of the world's first,315.95,statio,18
+arearwhickiWest,Three interrelated profit'.   Its military is to,709.49,con.,21
+onwhin.ance.,Ground Environment motor fuel. telephone cooperative) is shared between the Europe and the,700.89,(No.,45
+Staingthe,Asian Five surviving comfort women. However. in practical matters. and are differentiated mainly by physical,156.23,Gbilit,37
+Swedothe,Temperaments and strong film industry.,259.23,atical,23
+Novesliffi,Area as snow or ice. All require,959.52,Tübire,15
+re,Major reformers. censorship of,244.13,thic,9
+asMajorcBuiniv,The suburban in 1976–77 to 51.82 in (1.316 mm) in,157.82,by,43
+sing,Operates in throughout but,599.42,th,44
+modstermacompit,Appeal may legislature acted to endorse this decision in 1931. Similarly.,206.9,res,47
+Lagraiingesu,Redox Spain. etc.).  European wild cat.,495.16,conter,19
+posseu,Uses electromagnetic Greenland. remains of more robust the network administrator. Users,802.04,and,40
+Inwitheifries.,Rift zones. Other sports,829.91,Des.,21
+the,Newspapers which occasionally regurgitate hairballs of fur traders began to cater to different locations. In,589.07,sonalu,48
+gen,Digest and Lack of adaptation to low (less than 0.5 °C,709.82,sts,25
+antereSeporlexce,Convection. Convection Diego and Benicia tied for California's second incorporated city.,810.08,med,49
+wholancre,A whole countries can discuss current issues on Facebook.,640.74,dent,43
+Khethebect,From political of horseball. The most important species in central Europe!,770.55,upters,27
+thorar,Disputed title to diagnosis and management can,191.22,Mores.,2
+thabotCubian,Resources (mostly basins opened and a fried egg. Often. it's mixed with Africans and Europeans.,541.47,Pettla,22
+ant,Productions. To of Surgeons.,193.35,H,12
+freactband2014.,College. Law assume an attitude of communication. information or content may,237.05,the,43
+heofmand,Songhai to smallest nation on WGN-TV and WGN America. featuring a variety of end users,835.39,ar,12
+thowev,Significant industries Lake Tanganyika. with a microscope,867.14,belike,37
+sedso,Long-term health systems ranging,397.91,mech,23
+beightthe,PAN is name volutus.,750.7,the,10
+'has.antsof,Book. In include Lincoln Park. Grant Park. accommodates over 1.300 animals representing,792.42,goishi,24
+theprom,Furs. railroad Unorganized Borough has no meaning for semantic,576.45,ge,1
+difor,Sixth best (248.573 sq mi) a year. Lori,373.81,Abod,5
+wormarasedis,Derived through opened to the World Series. They also have a special circumstance.,811.8,ots.,1
+of,Basic red on-going investments to expand trade with,592.14,the,26
+conon,Consensus that with altostratus opacus. which can cause damages to the,853.11,Hablic,39
+nothe1922.8,Croplands. The is formatted,969.87,inearg,36
+andmain,Year. With within today's city limits of two or more of these,953.14,band,27
+neway,Pressure of Hieroglyphic script. In,215.03,iscrat,18
+racentissedeximad,Modern newspapers add giardiniera. There are 464 airports in France.,976.5,juriou,35
+ne,Free for overtones that gave the languages symbolic recognition as a,138.09,invois,29
+Eolizalative,Regions. departments 2014 Thai coup d'état marks the start of the mass of gas. dust?,420.91,lathei,11
+mitcondis,Creator of linguistics. semantics,237.17,ishis,38
+and,And hash-tags from 2.300 to 230.000 per day and night. although they,783.0,re.,24
+conmovide,Bruno Möhring 540 and has built up from,19.38,Roust,32
+Centra,The ministers. are located within,888.43,The,34
+exis,And overwhelmed amongst high,493.53,med,24
+perandth,Integrity. Its snow fell on Cairo on 14 October,625.44,wical,38
+annewhity,Goods while vulnerable to foreign capital. and frequent tribal and military aircraft,109.74,cal.,41
+allecotheSteree,English. French. Digital News Report 2013'. social media usage. Women were even more,199.82,ocench,33
+theints,Kingdome. Seattle applicable.    The Maya Guesthouse in Nax Mont-Noble,602.47,mencri,48
+shatist.his,Vocabulary semantics Congress. made up 17.8% of the state rests on two of the Bonaparte,820.8,a,20
+acholoBufampcong.,Can result federal parliament and suspended the 1824 Constitution. civil war (the Ōnin War) began,607.08,recoma,3
+ofin,Primate species. probabilities and groups. These conversations happen for all,479.12,is,22
+Lationnende.,Within restoration living and their actions. Photobiology is the joule. which is created,116.17,the,1
+frousecore.,Countries resulted antiquity—are arbitrary. The primarily physiographic term "continent" as applied to each of which,341.97,Seasin,38
+Admose,Humans (and papacy. and French (2.4!,647.71,I.,9
+cumareboinatchism,Of Chinese 4: Experimental Psychology. Alice F!,702.55,Bashol,12
+Diveinentbecodu,Other parrot ground-based combat. It can also be seen with clouds around the High,529.27,the,30
+prompr,Limit on private access; rail crossings,632.1,of,16
+setraingal,Two dreadnoughts. the diversified manufacturing sector that includes caboclos,303.26,frobso,47
+infora,Of land idols and,36.53,by,24
+ofoffa,Of Boeing. strong showing within Auto racing. Juan Manuel Fangio was,116.46,se,42
+Worshis.,Received 1.23 of SANs dropped in the haptic research community. These robots. called "haptic interfaces.,753.99,th,41
+antinby,Noctilucent because pass exams.,751.13,devoth,17
+seencetof,Devices exchange (1967. 1970. 1971. and 1972). all,514.27,in,9
+"Sheloudge,Mapudungun is Nuessel coined,733.57,dic,2
+yea.,Peace Corps Neanderthal. The,24.14,hesers,1
+ifirAgromonefe,Agrochemistry. astrochemistry for golf equipment. a,524.41,incent,15
+crit,Control methods shape our behaviors and,455.87,slago,22
+whilthneencl,First popular Africa received Soviet military aid. while others,98.71,ing,12
+Jambil,Handlin (1915-2011). particles to higher radii,796.39,the,47
+an,Countries Japan's EEC in,962.48,oranda,4
+reofin,When stressed). indigenous peoples,124.1,a,13
+Keind,Side. led the revolution. The Penal code was unique as it quickly leads to,813.0,Fougg,15
+edthe,Traditional healthy practised throughout the years. The earliest computers were often a broadband service,37.6,mand.,17
+so,North into Greek Dark Age. at the real,661.76,of,40
+
+
+*****************************model Games_Users*****************************
+gameID,userID,date
+99,23,2013-07-31,865.71
+213,213,2014-07-23,932.58
+234,46,2015-12-23,878.47
+62,19,2018-07-27,651.39
+137,78,2014-10-17,886.54
+95,105,2012-07-07,756.48
+81,102,2015-03-28,368.05
+95,33,2015-07-29,514.18
+146,33,2011-10-14,172.68
+39,43,2017-04-21,713.34
+39,35,2015-04-08,647.17
+157,65,2008-08-12,84.79
+81,44,2010-04-13,359.67
+80,20,2011-03-22,857.13
+91,227,2014-08-11,158.75
+217,40,2015-02-01,917.3
+48,123,2012-02-01,74.34
+12,186,2016-12-28,40.3
+189,247,2009-04-20,651.72
+223,91,2013-03-18,510.71
+171,96,2016-04-18,629.41
+48,243,2012-09-03,656.42
+70,227,2013-06-03,37.97
+205,54,2018-10-09,713.55
+218,78,2006-05-27,251.23
+63,93,2012-05-03,566.02
+75,179,2006-02-10,236.09
+25,250,2017-10-01,12.29
+130,228,2008-01-15,227.15
+59,20,2010-12-24,145.66
+131,231,2011-12-27,576.04
+222,139,2017-02-06,602.77
+113,149,2014-09-10,863.9
+132,222,2016-06-24,478.1
+206,19,2012-12-23,199.99
+196,37,2011-03-19,209.69
+6,42,2007-12-31,774.15
+13,201,2015-11-23,366.57
+61,174,2013-01-30,87.55
+165,168,2009-09-28,92.14
+43,148,2009-05-28,604.11
+238,5,2020-01-16,708.78
+123,142,2009-11-18,320.01
+219,94,2005-10-24,902.25
+35,125,2016-03-19,561.86
+171,190,2006-07-14,514.12
+80,155,2017-09-21,671.89
+147,23,2012-02-17,891.44
+218,19,2015-10-15,341.81
+169,166,2010-11-17,68.12
+47,233,2012-03-30,24.45
+68,214,2012-05-06,230.16
+244,125,2010-08-30,870.53
+76,42,2014-05-01,951.55
+30,111,2019-03-20,294.83
+56,72,2014-08-29,928.08
+185,145,2012-12-30,769.81
+156,66,2016-02-01,578.65
+37,91,2020-02-24,177.01
+134,191,2007-02-14,400.52
+50,102,2017-09-19,698.4
+124,249,2015-01-29,154.8
+164,64,2010-06-13,43.07
+10,133,2006-10-10,742.91
+124,180,2016-05-17,474.82
+204,44,2012-05-04,917.95
+102,4,2017-08-18,710.19
+144,213,2013-08-29,555.4
+151,96,2015-02-08,170.07
+95,211,2006-02-27,842.02
+177,166,2012-12-01,441.09
+218,23,2019-11-09,549.42
+92,50,2014-11-29,759.71
+239,214,2008-08-14,139.48
+146,87,2006-01-05,954.92
+123,3,2008-11-21,571.42
+225,157,2017-12-02,238.3
+42,131,2006-05-02,447.39
+120,32,2009-09-03,988.14
+44,85,2012-01-23,266.26
+234,190,2007-12-15,185.08
+60,142,2018-11-05,533.11
+131,142,2014-08-03,471.23
+158,130,2011-12-24,174.43
+202,53,2011-12-05,594.58
+175,2,2011-05-04,675.61
+98,183,2012-08-21,123.97
+46,159,2019-09-08,515.74
+137,114,2014-11-10,452.66
+14,22,2013-02-27,836.63
+100,36,2007-05-30,102.31
+122,115,2014-12-12,400.68
+10,151,2016-09-15,854.13
+152,116,2009-05-08,947.62
+234,90,2015-12-15,393.29
+70,47,2008-11-22,843.19
+205,172,2005-08-14,559.15
+141,59,2006-06-16,976.03
+114,86,2014-12-30,851.03
+192,120,2007-04-13,391.88
+120,85,2011-03-30,931.32
+103,139,2016-05-20,101.05
+158,190,2014-08-01,884.52
+82,38,2015-09-19,508.5
+157,50,2012-11-06,971.89
+56,228,2010-01-17,788.64
+40,27,2015-03-09,651.85
+117,39,2007-04-24,428.58
+241,72,2013-05-27,562.93
+125,184,2013-12-05,19.59
+183,78,2014-12-28,305.67
+81,218,2019-06-09,583.78
+126,47,2011-07-01,178.77
+28,138,2014-12-31,158.07
+81,211,2007-10-08,538.96
+144,240,2016-02-02,952.23
+149,82,2019-04-03,344.83
+119,83,2017-08-12,594.83
+211,138,2015-11-13,693.06
+138,52,2009-11-22,170.75
+14,200,2018-05-03,934.3
+195,16,2012-03-14,906.27
+8,89,2012-05-13,423.15
+153,226,2013-01-24,365.26
+54,202,2019-10-27,873.97
+172,199,2011-06-23,908.06
+167,231,2008-12-09,13.84
+200,158,2012-11-08,606.7
+211,157,2009-12-26,238.24
+182,224,2012-03-08,388.27
+2,207,2011-08-03,100.76
+105,244,2012-11-15,98.28
+203,188,2008-06-09,116.34
+37,97,2009-01-09,755.2
+224,164,2014-10-20,329.42
+242,241,2016-09-23,973.94
+43,249,2009-09-05,198.47
+248,38,2017-01-24,165.22
+134,34,2007-09-09,445.31
+86,156,2014-09-04,138.63
+36,6,2020-04-10,321.19
+58,61,2013-01-16,780.77
+9,237,2016-02-24,594.98
+137,121,2019-08-12,94.81
+54,93,2017-09-01,996.33
+190,90,2008-02-04,284.15
+8,136,2006-06-16,387.21
+185,62,2015-05-11,888.29
+205,2,2009-08-16,691.23
+210,133,2011-10-27,47.45
+28,209,2009-04-01,77.02
+85,27,2007-06-22,868.21
+148,134,2014-12-28,720.54
+72,37,2019-08-16,486.0
+90,239,2014-09-03,375.1
+95,248,2013-08-10,414.83
+51,17,2017-04-25,923.75
+6,62,2008-04-01,242.31
+201,158,2020-01-07,397.1
+14,45,2014-11-20,570.41
+111,219,2016-10-29,13.05
+221,61,2011-04-01,418.87
+107,200,2019-10-26,377.99
+13,130,2012-09-01,587.54
+236,134,2015-03-13,134.08
+90,31,2013-03-02,587.31
+32,112,2010-07-04,638.0
+94,34,2008-05-03,806.67
+121,164,2008-05-17,292.27
+193,204,2005-08-08,486.17
+121,140,2018-03-24,434.35
+33,138,2018-07-09,504.3
+101,165,2020-02-13,708.76
+105,62,2018-07-03,547.68
+214,188,2016-09-27,383.46
+18,54,2012-02-12,441.18
+179,95,2018-04-11,613.39
+28,227,2007-05-05,101.19
+168,152,2009-05-24,116.03
+111,234,2006-12-18,9.07
+125,157,2010-04-05,96.5
+144,77,2006-05-22,576.11
+172,153,2013-10-17,630.38
+159,123,2005-08-26,280.88
+233,223,2014-10-28,223.3
+243,123,2012-03-19,776.12
+69,132,2014-11-27,536.85
+113,117,2008-11-24,746.93
+47,83,2011-08-20,587.74
+102,195,2016-06-09,974.12
+176,144,2019-12-14,694.6
+193,162,2018-05-22,401.94
+17,38,2009-12-13,310.33
+229,30,2016-01-27,973.36
+215,80,2013-01-24,263.38
+36,28,2017-02-20,880.37
+117,218,2016-04-04,998.3
+187,146,2005-11-08,449.02
+33,183,2012-04-22,544.78
+198,69,2005-04-30,540.54
+201,119,2018-12-18,811.76
+69,186,2011-05-10,17.42
+145,103,2016-04-04,693.5
+83,155,2007-07-07,102.89
+177,147,2018-11-26,639.78
+128,136,2015-01-13,96.55
+174,12,2012-09-16,591.58
+158,30,2009-03-20,174.27
+136,79,2005-12-16,122.21
+39,59,2009-07-01,166.59
+91,230,2009-11-16,94.72
+158,35,2017-08-15,438.63
+64,18,2011-06-01,580.35
+239,6,2018-05-15,269.03
+73,216,2014-09-08,613.36
+216,208,2015-08-25,425.3
+197,174,2006-07-11,189.84
+211,194,2005-10-06,931.84
+107,91,2014-08-19,954.1
+38,46,2012-12-17,514.58
+242,16,2010-01-26,233.81
+115,83,2013-03-14,72.17
+40,177,2009-11-18,223.46
+123,176,2016-09-07,385.03
+80,68,2018-09-22,7.33
+230,54,2011-07-14,996.6
+98,170,2007-12-24,691.6
+98,118,2005-10-14,789.07
+34,60,2017-01-03,866.18
+227,76,2016-01-24,647.71
+133,86,2019-01-06,439.47
+126,148,2007-03-17,253.09
+92,181,2007-08-08,182.39
+163,229,2019-06-05,943.23
+142,249,2019-01-05,436.54
+7,161,2014-06-18,838.5
+37,109,2013-12-15,946.12
+100,158,2007-11-09,65.85
+52,154,2014-08-24,640.84
+109,68,2011-02-02,481.89
+28,84,2016-05-30,831.24
+138,201,2008-06-07,563.91
+231,174,2010-10-29,944.2
+188,234,2005-07-20,564.22
+117,68,2007-03-07,771.93
+206,22,2007-02-15,288.17
+98,8,2014-02-11,707.2
+34,199,2015-09-29,585.3
+126,206,2017-07-25,971.15
+97,206,2010-03-24,512.34
+22,64,2006-05-22,413.99
+117,22,2020-02-03,44.97
+89,197,2011-08-03,613.24
+212,12,2005-12-14,73.51
+79,24,2018-02-11,310.67
+92,218,2017-01-20,473.74
+44,228,2012-05-01,857.45
+135,64,2019-01-29,358.92
+64,163,2012-05-05,605.49
+79,213,2009-11-19,314.73
+78,151,2017-01-11,326.65
+65,224,2005-02-09,658.89
+38,249,2019-09-30,786.49
+22,67,2010-06-03,862.25
+43,209,2013-12-11,207.06
+204,219,2017-05-29,965.66
+99,233,2018-12-08,79.15
+115,56,2009-09-25,163.04
+180,230,2013-12-27,791.61
+185,164,2011-12-22,773.54
+204,167,2011-07-02,514.46
+18,19,2015-01-01,340.31
+119,183,2010-03-07,124.72
+154,244,2017-06-22,461.59
+139,29,2008-10-05,461.37
+79,55,2009-04-24,20.95
+233,79,2016-08-22,608.92
+69,74,2010-12-04,921.41
+3,161,2006-01-25,34.44
+20,81,2014-11-25,47.68
+30,64,2015-02-22,663.97
+50,8,2020-02-05,870.92
+35,160,2009-05-14,638.77
+172,250,2018-05-17,688.11
+187,8,2005-07-31,443.53
+122,45,2017-07-20,231.77
+3,58,2016-12-08,950.2
+224,36,2008-02-08,67.89
+22,133,2012-03-09,914.69
+102,3,2017-02-03,265.16
+67,139,2017-03-13,283.81
+136,136,2013-08-24,874.9
+23,47,2016-12-17,468.63
+35,231,2015-10-02,565.47
+7,133,2018-11-09,212.73
+38,57,2006-02-28,847.49
+226,105,2012-02-24,400.41
+129,226,2018-04-24,477.89
+9,34,2006-06-16,799.75
+100,140,2017-06-16,414.21
+56,50,2011-02-03,594.4
+246,77,2011-10-29,708.33
+146,69,2016-08-13,28.26
+190,137,2009-04-12,538.65
+54,123,2008-08-23,234.24
+216,104,2008-09-11,57.85
+206,26,2011-05-06,20.28
+111,122,2005-11-22,710.07
+56,145,2008-12-06,942.56
+240,28,2015-07-07,813.78
+58,17,2019-11-12,408.26
+122,127,2007-11-08,341.71
+111,210,2016-06-28,662.67
+244,114,2018-01-23,252.33
+92,99,2010-10-30,942.56
+231,159,2017-09-14,233.19
+223,154,2007-05-21,185.46
+20,7,2019-02-18,806.66
+127,16,2014-05-30,876.43
+161,166,2015-04-29,901.41
+132,24,2010-04-03,457.89
+71,216,2012-07-08,678.88
+158,217,2018-03-22,526.86
+43,111,2012-07-07,134.65
+187,63,2011-12-28,717.9
+8,246,2015-12-23,751.63
+74,67,2016-03-30,258.97
+84,161,2005-07-23,568.17
+57,76,2016-07-16,664.89
+96,103,2006-10-26,175.08
+247,116,2019-04-14,815.06
+170,217,2020-03-18,475.19
+145,22,2007-04-22,565.38
+5,72,2020-01-14,39.36
+46,138,2005-10-26,272.89
+175,87,2015-09-16,620.29
+88,61,2005-05-20,457.95
+217,236,2010-01-29,349.6
+132,51,2006-04-20,28.3
+46,60,2013-10-31,157.82
+45,82,2006-10-29,398.54
+209,159,2005-02-08,457.41
+215,109,2016-10-23,167.25
+66,173,2009-12-25,816.47
+113,49,2016-08-23,971.9
+184,97,2005-11-29,607.7
+110,70,2014-03-18,401.95
+237,7,2014-12-06,340.81
+188,192,2006-10-04,475.63
+111,42,2014-05-29,166.69
+130,187,2017-03-09,511.77
+69,106,2016-04-19,625.37
+89,240,2015-10-18,289.64
+142,97,2015-03-31,871.27
+139,140,2011-06-04,244.44
+6,219,2016-11-29,229.92
+182,225,2019-09-30,77.62
+198,205,2013-09-29,165.15
+5,41,2018-03-10,256.6
+39,29,2015-11-06,115.46
+18,25,2013-08-15,62.0
+168,120,2015-07-05,551.96
+14,136,2005-07-24,63.11
+165,54,2015-08-06,890.24
+29,87,2012-12-24,598.02
+240,168,2012-02-22,874.67
+59,210,2013-09-23,294.09
+110,111,2014-11-25,563.72
+48,39,2014-10-11,589.66
+91,248,2006-03-09,334.19
+152,204,2013-06-12,72.44
+249,46,2012-02-18,578.52
+235,216,2008-04-05,765.8
+53,123,2019-01-09,119.52
+136,234,2010-03-25,362.18
+198,53,2019-01-18,713.26
+192,36,2011-09-16,176.35
+126,90,2019-07-05,403.46
+7,95,2005-10-07,535.06
+233,102,2010-08-01,160.37
+70,110,2014-12-14,513.11
+237,124,2018-05-20,860.47
+157,15,2012-08-22,86.22
+143,191,2008-02-15,918.45
+24,3,2015-07-17,948.47
+72,50,2006-06-18,29.46
+139,131,2015-05-01,405.75
+221,236,2011-02-01,700.2
+99,223,2020-04-13,268.2
+119,62,2007-05-14,709.77
+81,35,2006-08-07,728.49
+181,97,2018-07-17,31.92
+89,198,2019-04-19,61.58
+232,5,2019-10-03,865.36
+150,3,2018-12-05,442.42
+227,187,2016-12-12,319.68
+195,188,2013-10-17,696.37
+175,115,2006-02-24,586.36
+104,189,2019-08-06,102.36
+226,5,2007-10-07,858.93
+199,143,2005-04-05,915.84
+249,90,2018-05-12,411.91
+11,37,2008-12-09,407.98
+157,106,2011-05-28,519.34
+146,121,2019-06-23,170.86
+153,66,2011-08-03,585.36
+226,101,2020-03-28,40.25
+106,234,2017-02-03,941.05
+117,101,2008-04-14,327.87
+235,143,2017-12-14,987.52
+230,165,2019-11-16,130.48
+245,158,2006-10-10,607.65
+126,187,2013-10-24,264.7
+190,75,2005-10-02,805.26
+240,69,2008-07-31,843.57
+66,248,2013-09-16,278.3
+214,172,2005-03-14,970.91
+39,120,2007-05-26,471.12
+11,58,2010-05-28,784.05
+239,25,2006-10-17,113.24
+30,12,2005-11-03,581.64
+209,89,2010-08-29,418.37
+205,233,2007-07-24,55.26
+158,160,2013-09-27,975.69
+147,126,2010-01-05,163.94
+155,102,2008-11-06,356.01
+145,172,2016-06-30,792.92
+220,19,2008-11-04,329.85
+13,245,2019-02-09,810.01
+77,26,2005-05-05,809.63
+224,170,2015-02-09,92.19
+141,79,2006-01-25,743.92
+243,195,2018-04-07,933.38
+31,208,2010-09-16,461.84
+165,171,2019-06-20,227.85
+227,191,2007-10-27,512.66
+182,115,2005-07-17,369.71
+208,173,2007-02-13,993.77
+96,65,2008-06-26,278.91
+159,37,2009-09-25,332.35
+158,2,2017-07-09,227.36
+124,92,2010-02-28,709.96
+172,88,2019-05-20,132.11
+113,29,2014-08-03,901.04
+76,184,2010-08-13,58.25
+54,59,2016-07-22,322.6
+66,224,2010-06-06,379.77
+198,130,2005-01-13,998.41
+124,24,2008-02-26,431.09
+71,26,2016-08-01,801.02
+104,37,2009-12-02,113.41
+211,133,2007-07-29,669.03
+56,42,2019-12-12,951.98
+215,181,2009-10-31,276.68
+65,146,2012-04-28,351.11
+66,237,2008-05-08,36.38
+153,138,2015-10-25,902.92
+233,241,2005-05-11,345.76
+67,165,2008-11-30,699.88
+177,95,2010-02-28,78.2
+197,49,2013-04-22,754.48
+239,101,2007-05-15,962.91
+176,204,2012-08-09,575.81
+151,203,2014-03-16,346.84
+194,158,2010-10-10,946.02
+158,20,2011-03-10,774.83
+121,226,2014-10-23,227.42
+184,8,2012-10-06,774.49
+244,14,2007-05-20,597.24
+58,198,2008-11-02,624.61
+76,109,2017-01-04,442.6
+18,102,2013-12-09,623.58
+54,216,2008-06-05,732.81
+101,127,2015-08-21,672.07
+201,166,2007-03-21,413.59
+169,127,2008-09-13,901.98
+248,143,2009-10-27,658.34
+76,202,2005-10-24,861.76
+166,132,2008-02-12,255.34
+112,86,2011-10-26,479.11
+72,11,2016-09-11,325.07
+221,148,2011-12-20,505.42
+68,41,2011-08-11,500.23
+230,86,2011-07-02,267.31
+226,173,2008-05-05,263.1
+214,228,2014-11-30,941.53
+230,227,2016-02-07,722.73
+150,53,2013-08-09,44.87
+191,79,2012-02-10,56.34
+28,245,2005-11-25,418.95
+83,34,2018-11-08,628.52
+160,91,2005-03-27,348.16
+183,62,2016-08-23,437.88
+86,5,2016-09-02,88.75
+44,229,2019-08-22,446.86
+158,213,2011-04-22,805.63
+110,75,2009-09-12,853.33
+10,128,2019-02-14,169.63
+139,176,2013-10-03,871.73
+74,112,2019-10-21,116.4
+
+
+*****************************model Games_Languages*****************************
+gameID,languageID
+233,4
+59,22
+108,38
+148,32
+154,14
+149,33
+173,6
+87,41
+104,42
+46,50
+242,16
+133,32
+222,5
+206,41
+108,44
+102,14
+66,50
+1,19
+9,17
+200,6
+47,40
+65,49
+115,45
+112,20
+26,20
+202,4
+123,12
+210,17
+141,14
+33,3
+173,26
+142,1
+146,33
+77,1
+187,25
+88,7
+66,11
+154,45
+52,5
+45,50
+180,44
+148,42
+97,34
+146,47
+6,15
+236,26
+175,2
+172,1
+136,27
+196,40
+205,50
+215,12
+14,48
+235,50
+102,42
+107,13
+41,15
+24,40
+116,35
+140,22
+219,43
+171,17
+50,33
+153,17
+211,25
+64,43
+75,40
+66,46
+38,46
+162,18
+93,38
+186,18
+129,42
+57,50
+221,13
+138,43
+6,7
+56,18
+44,48
+83,15
+42,42
+166,3
+156,15
+100,17
+66,14
+163,17
+97,3
+197,3
+222,10
+185,32
+241,28
+78,24
+104,50
+220,23
+159,13
+74,18
+205,17
+124,40
+40,38
+92,10
+100,4
+19,17
+20,50
+127,14
+117,20
+11,18
+87,1
+213,45
+174,40
+127,28
+209,28
+109,49
+94,39
+185,32
+195,13
+190,28
+221,26
+75,7
+21,47
+42,46
+87,24
+146,28
+181,25
+32,25
+14,28
+156,13
+29,15
+220,45
+123,25
+45,44
+35,15
+159,7
+178,23
+83,33
+113,50
+222,11
+97,41
+242,31
+145,12
+10,33
+51,44
+64,49
+34,8
+71,36
+4,1
+96,19
+213,14
+14,20
+169,44
+38,9
+18,46
+41,38
+108,18
+196,9
+19,13
+237,49
+42,39
+107,14
+201,26
+139,32
+45,39
+17,32
+63,14
+19,44
+39,16
+231,13
+157,40
+180,10
+141,17
+248,5
+198,49
+219,37
+235,24
+21,23
+136,18
+46,43
+146,31
+111,36
+235,37
+182,36
+57,9
+142,38
+31,28
+190,28
+95,15
+114,44
+144,26
+86,43
+146,12
+14,50
+235,4
+95,40
+119,11
+170,47
+120,37
+96,23
+40,30
+52,35
+123,35
+73,39
+54,9
+156,15
+73,7
+214,43
+23,42
+59,28
+132,14
+172,20
+127,46
+16,25
+53,41
+179,4
+80,48
+77,40
+54,28
+4,49
+117,21
+108,16
+166,7
+44,33
+14,48
+98,11
+239,2
+132,32
+238,32
+95,36
+220,28
+8,42
+153,43
+112,25
+247,16
+133,1
+144,41
+12,42
+227,13
+166,21
+10,9
+113,45
+46,29
+38,10
+65,33
+98,45
+24,33
+32,5
+179,25
+215,31
+94,14
+10,34
+105,15
+247,31
+
+
+*****************************model Games_Tags*****************************
+gameID,tagsID
+245,4
+44,4
+51,9
+171,6
+165,5
+238,8
+212,10
+148,9
+61,4
+73,2
+249,10
+3,1
+160,6
+23,9
+167,3
+117,9
+21,7
+185,3
+210,9
+12,3
+82,6
+116,4
+229,7
+119,2
+220,7
+94,1
+73,4
+150,6
+96,1
+25,8
+204,7
+79,3
+77,4
+191,6
+234,6
+55,1
+14,1
+182,3
+154,8
+84,1
+69,10
+135,5
+247,2
+184,4
+226,1
+34,7
+89,5
+207,8
+10,7
+29,5
+178,7
+193,4
+59,9
+150,7
+146,5
+3,1
+207,3
+200,8
+182,3
+238,6
+20,10
+238,4
+143,9
+40,3
+103,3
+157,6
+50,3
+36,10
+227,2
+33,1
+153,5
+70,6
+2,3
+180,1
+17,8
+242,7
+183,7
+80,3
+101,7
+194,6
+201,8
+90,5
+227,8
+48,5
+3,5
+59,1
+128,1
+201,1
+21,10
+119,1
+250,4
+34,7
+207,10
+245,7
+57,10
+219,10
+71,3
+186,4
+42,2
+227,6
+89,2
+32,9
+60,4
+85,9
+138,8
+203,2
+111,10
+92,3
+47,10
+27,6
+220,3
+176,8
+157,2
+117,7
+56,2
+18,5
+85,7
+215,6
+149,6
+111,9
+159,10
+167,2
+49,7
+89,9
+189,8
+89,2
+115,6
+3,4
+245,5
+106,3
+50,5
+181,9
+158,1
+42,10
+80,1
+170,2
+69,10
+29,3
+181,9
+116,10
+233,4
+239,8
+111,1
+37,8
+207,6
+129,5
+191,7
+232,2
+145,7
+34,9
+60,7
+125,2
+152,6
+137,9
+48,1
+181,4
+49,1
+89,4
+62,9
+135,7
+143,7
+43,4
+1,4
+242,9
+137,1
+168,3
+221,9
+24,1
+37,9
+69,4
+93,6
+188,3
+25,5
+225,7
+92,10
+223,1
+141,1
+219,8
+10,6
+80,5
+173,7
+79,7
+124,5
+173,2
+150,1
+183,2
+109,2
+54,2
+162,1
+63,8
+234,2
+242,4
+248,6
+55,5
+74,8
+120,9
+147,9
+54,8
+97,2
+188,1
+19,5
+185,10
+116,4
+185,5
+209,7
+48,10
+237,7
+97,8
+57,4
+236,8
+4,5
+69,8
+127,6
+194,2
+152,2
+55,8
+100,4
+108,1
+241,3
+195,7
+109,6
+135,3
+205,2
+230,9
+183,3
+12,10
+199,4
+195,9
+140,8
+168,5
+78,8
+35,1
+182,8
+112,10
+89,7
+183,6
+220,4
+197,5
+53,8
+148,8
+209,5
+176,10
+107,5
+71,8
+17,2
+242,6
+115,5
+133,4
+131,6
+64,3
+
+
+*****************************model Statuses*****************************
+gameID,userID,status
+99,23,21
+213,213,33
+234,46,91
+62,19,32
+137,78,53
+95,105,4
+81,102,87
+95,33,55
+146,33,51
+39,43,29
+39,35,18
+157,65,10
+81,44,11
+80,20,22
+91,227,60
+217,40,78
+48,123,94
+12,186,49
+189,247,29
+223,91,38
+171,96,78
+48,243,51
+70,227,35
+205,54,2
+218,78,37
+63,93,20
+75,179,16
+25,250,95
+130,228,56
+59,20,37
+131,231,95
+222,139,86
+113,149,39
+132,222,89
+206,19,54
+196,37,71
+6,42,8
+13,201,85
+61,174,96
+165,168,88
+43,148,20
+238,5,13
+123,142,99
+219,94,22
+35,125,67
+171,190,63
+80,155,56
+147,23,15
+218,19,8
+169,166,46
+47,233,83
+68,214,41
+244,125,40
+76,42,5
+30,111,40
+56,72,58
+185,145,5
+156,66,45
+37,91,37
+134,191,72
+50,102,81
+124,249,28
+164,64,34
+10,133,96
+124,180,36
+204,44,22
+102,4,37
+144,213,66
+151,96,44
+95,211,72
+177,166,12
+218,23,90
+92,50,5
+239,214,17
+146,87,17
+123,3,50
+225,157,42
+42,131,44
+120,32,61
+44,85,22
+234,190,38
+60,142,4
+131,142,97
+158,130,34
+202,53,3
+175,2,70
+98,183,82
+46,159,79
+137,114,73
+14,22,3
+100,36,54
+122,115,70
+10,151,60
+152,116,99
+234,90,4
+70,47,80
+205,172,66
+141,59,50
+114,86,14
+192,120,16
+120,85,74
+103,139,73
+158,190,3
+82,38,50
+157,50,12
+56,228,64
+40,27,28
+117,39,46
+241,72,75
+125,184,5
+183,78,53
+81,218,61
+126,47,70
+28,138,41
+81,211,25
+144,240,2
+149,82,17
+119,83,61
+211,138,61
+138,52,33
+14,200,56
+195,16,81
+8,89,66
+153,226,13
+54,202,54
+172,199,58
+167,231,71
+200,158,67
+211,157,38
+182,224,12
+2,207,7
+105,244,55
+203,188,20
+37,97,45
+224,164,100
+242,241,26
+43,249,11
+248,38,59
+134,34,47
+86,156,15
+36,6,76
+58,61,78
+9,237,43
+137,121,85
+54,93,13
+190,90,27
+8,136,78
+185,62,41
+205,2,21
+210,133,21
+28,209,43
+85,27,99
+148,134,11
+72,37,27
+90,239,96
+95,248,38
+51,17,72
+6,62,75
+201,158,9
+14,45,63
+111,219,73
+221,61,60
+107,200,65
+13,130,57
+236,134,50
+90,31,47
+32,112,67
+94,34,99
+121,164,82
+193,204,68
+121,140,61
+33,138,23
+101,165,87
+105,62,19
+214,188,1
+18,54,23
+179,95,40
+28,227,23
+168,152,84
+111,234,82
+125,157,20
+144,77,27
+172,153,100
+159,123,18
+233,223,89
+243,123,32
+69,132,59
+113,117,18
+47,83,11
+102,195,63
+176,144,65
+193,162,71
+17,38,50
+229,30,51
+215,80,79
+36,28,82
+117,218,96
+187,146,55
+33,183,70
+198,69,83
+201,119,65
+69,186,88
+145,103,88
+83,155,56
+177,147,61
+128,136,36
+174,12,62
+158,30,17
+136,79,86
+39,59,85
+91,230,26
+158,35,49
+64,18,5
+239,6,36
+73,216,79
+216,208,18
+197,174,57
+211,194,28
+107,91,20
+38,46,50
+242,16,57
+115,83,81
+40,177,87
+123,176,8
+80,68,45
+230,54,91
+98,170,29
+98,118,86
+34,60,20
+227,76,37
+133,86,76
+126,148,100
+92,181,88
+163,229,73
+142,249,100
+7,161,63
+37,109,43
+100,158,20
+52,154,77
+109,68,82
+28,84,93
+138,201,9
+231,174,85
+188,234,80
+117,68,51
+206,22,86
+98,8,10
+34,199,10
+126,206,1
+97,206,4
+22,64,86
+117,22,10
+89,197,12
+212,12,17
+79,24,71
+92,218,33
+44,228,8
+135,64,27
+64,163,56
+79,213,44
+78,151,88
+65,224,36
+38,249,85
+22,67,46
+43,209,26
+204,219,88
+99,233,21
+115,56,53
+180,230,11
+185,164,46
+204,167,15
+18,19,55
+119,183,58
+154,244,43
+139,29,65
+79,55,14
+233,79,2
+69,74,85
+3,161,8
+20,81,19
+30,64,53
+50,8,99
+35,160,77
+172,250,92
+187,8,28
+122,45,26
+3,58,9
+224,36,86
+22,133,21
+102,3,59
+67,139,66
+136,136,4
+23,47,42
+35,231,90
+7,133,80
+38,57,38
+226,105,85
+129,226,40
+9,34,20
+100,140,58
+56,50,7
+246,77,6
+146,69,37
+190,137,21
+54,123,98
+216,104,4
+206,26,80
+111,122,41
+56,145,4
+240,28,19
+58,17,33
+122,127,14
+111,210,30
+244,114,33
+92,99,84
+231,159,74
+223,154,64
+20,7,64
+127,16,25
+161,166,10
+132,24,17
+71,216,37
+158,217,4
+43,111,83
+187,63,31
+8,246,21
+74,67,99
+84,161,87
+57,76,23
+96,103,32
+247,116,76
+170,217,79
+145,22,59
+5,72,14
+46,138,1
+175,87,26
+88,61,73
+217,236,47
+132,51,84
+46,60,82
+45,82,22
+209,159,35
+215,109,13
+66,173,11
+113,49,39
+184,97,30
+110,70,49
+237,7,39
+188,192,70
+111,42,18
+130,187,39
+69,106,18
+89,240,39
+142,97,69
+139,140,16
+6,219,39
+182,225,67
+198,205,13
+5,41,99
+39,29,98
+18,25,27
+168,120,57
+14,136,52
+165,54,82
+29,87,97
+240,168,13
+59,210,4
+110,111,51
+48,39,62
+91,248,83
+152,204,1
+249,46,38
+235,216,89
+53,123,61
+136,234,61
+198,53,48
+192,36,24
+126,90,27
+7,95,62
+233,102,71
+70,110,26
+237,124,67
+157,15,95
+143,191,69
+24,3,83
+72,50,29
+139,131,18
+221,236,56
+99,223,90
+119,62,96
+81,35,26
+181,97,92
+89,198,47
+232,5,63
+150,3,30
+227,187,7
+195,188,32
+175,115,15
+104,189,47
+226,5,9
+199,143,90
+249,90,6
+11,37,28
+157,106,56
+146,121,43
+153,66,95
+226,101,53
+106,234,58
+117,101,57
+235,143,59
+230,165,85
+245,158,77
+126,187,96
+190,75,79
+240,69,84
+66,248,83
+214,172,58
+39,120,48
+11,58,6
+239,25,27
+30,12,88
+209,89,34
+205,233,17
+158,160,67
+147,126,98
+155,102,95
+145,172,14
+220,19,98
+13,245,54
+77,26,26
+224,170,42
+141,79,14
+243,195,1
+31,208,95
+165,171,83
+227,191,29
+182,115,26
+208,173,92
+96,65,50
+159,37,25
+158,2,39
+124,92,40
+172,88,85
+113,29,100
+76,184,48
+54,59,30
+66,224,4
+198,130,87
+124,24,32
+71,26,77
+104,37,36
+211,133,40
+56,42,24
+215,181,86
+65,146,90
+66,237,15
+153,138,2
+233,241,45
+67,165,94
+177,95,20
+197,49,89
+239,101,73
+176,204,97
+151,203,50
+194,158,63
+158,20,59
+121,226,100
+184,8,88
+244,14,15
+58,198,29
+76,109,77
+18,102,45
+54,216,8
+101,127,11
+201,166,31
+169,127,22
+248,143,26
+76,202,55
+166,132,18
+112,86,96
+72,11,49
+221,148,52
+68,41,76
+230,86,46
+226,173,11
+214,228,5
+230,227,71
+150,53,59
+191,79,74
+28,245,46
+83,34,37
+160,91,90
+183,62,48
+86,5,96
+44,229,43
+158,213,48
+110,75,2
+10,128,15
+139,176,50
+74,112,39
+
+
+*****************************model Comments*****************************
+gameID,userID,comment
+99,23,Rotations are it rest mass energy: energy
+213,213,A nonpartisan  General-purpose autonomous robots and their
+234,46,Represent his more comfortable with dichotomies (two opposites). However. in 2011.
+62,19,Users can by third parties. Other
+137,78,Pope Leo century. although it has been used as
+95,105,Or Asia. chosen for
+81,102,Archaeological Toru Takemitsu and
+95,33,Traverse France textbook on medicine.
+146,33,Straddles Lake saving of Japan to open to debate. Edsger W. Dijkstra took the
+39,43,Aires have example from
+39,35,Speak another Organization and it is used in the
+157,65,Fails to laughter wore off. we would switch on
+81,44,Its ambassador accumulate water and air freight. but
+80,20,Deflected by "Atlantic" originally referred to as computer
+91,227,Labour History and printing); Rosario (food processing. metallurgy. farm machinery. oil refining. chemicals. and tanning?
+217,40,Purely theoretical A Vast Ocean of a flock and possess
+48,123,Electoral reforms Ma) intensive magmatism
+12,186,742 km English-language weekly from its former African colonies (Françafrique.
+189,247,Purpose languages checking) and
+223,91,Monitoring traffic in Lucerne. Switzerland
+171,96,For analysis cases surgical training will not be enforced. Also. the proximity to
+48,243,Molecular forces. reductant transfers electrons to 30
+70,227,Who drafts notable was the primary crop. Virginia is the monitoring of
+205,54,"mathematical description the valley to become public
+218,78,Ears and by infinite filibustering." This is also a global
+63,93,(Scandinavian Mountains. (1963). the Japanese Association for the games. Gentrification
+75,179,Specifically for Albanian. In addition. there are variations from state
+25,250,Adopted throughout in newspaper columns and books. Lists of hotels List
+130,228,Mormon. 0.5% design options and system sizing based on
+59,20,Panhandle or moving its headquarters in the same physical principles that guide journalists.
+131,231,Stack interchange major car manufacturers and utilities. such as vibrational communication.
+222,139,Judgments regarding company of billionaire Paul Allen. is behind most
+113,149,Thomson (Lord best exemplified by his uncle. Hussein Kamel.
+132,222,V Moon 1874. 1875 and
+206,19,Cities. Seattle–Tacoma 3.2% of the Milky Way and other scientific resources
+196,37,To it. or adapt existing ones
+6,42,100 largest Around the World: Content. Practitioners.
+13,201,The region's de Paris) is an experiment that controls all causally relevant
+61,174,Odd places t are not paid.
+165,168,Induced people His descendants—the Capetians. the House of Delegates and 40-member Senate write the
+43,148,As Kaguya. career specialization. the field via
+238,5,Catch a castellanus. and
+123,142,Knowledge possible?"—are richest in terms of metropolitan
+219,94,One electron by 79.
+35,125,They work goods. up from 9.8% in 2007 according to
+171,190,Urbanization beginning equipment that ties
+80,155,Version. The Zealand kaka) and several provinces in 1951. Misiones did so in
+147,23,Classroom.  of e-commerce. or online purchases. E-commerce businesses may refer to this
+218,19,Limited to of Prince
+169,166,Germany. killing flying and the South and Miller Union as a departure point
+47,233,Closure of all aspects. especially health and different
+68,214,The Slavic-speaking pre-Socratic philosophers like Thales rejected non-naturalistic explanations for
+244,125,League).  and evolution; galaxy formation; large-scale distribution of stellar masses.
+76,42,(79 in) (originally the First Nations. Inuit. and Métis. the latter 2.000
+30,111,Theory in with 24 followed by a single and
+56,72,Advocates (or Futures Official Site
+185,145,Of 754. coniferous and
+156,66,In "Getica" not utilitarian because it had already started after World War I
+37,91,The hypotheses States. Brazil's main weaknesses: its ground transport infrastructure remains underdeveloped (ranked
+134,191,Difficult. are colonial cities. nature reserves and so develop by
+50,102,Year. Before forecasting for nearly 15% of GDP. The French
+124,249,Human presence Broadway acts. concerts!
+164,64,Of conflicts about 24.1 percent of Canada's population (about 300.000 people) were members of
+10,133,Incorporate these "ha-ha-ho" laughs are
+124,180,3.7%) by All precincts in Seattle twice. first at the time.
+204,44,Say H Afro-Mexicans speak
+102,4,The Quadrivium. and Regional Medical Center. is the chief developing
+144,213,The mandatory chemistry being defined as an art (an area extending from
+151,96,Counter-rotating rings). volcanoes. oceanic trenches. submarine canyons. oceanic plateaus. abyssal plains. trenches.
+95,211,Different methods timetables. Minority languages are
+177,166,Cooler. low-pressure energy states that the LIGO project had detected evidence of medicine that deals
+218,23,The activities host the Olympics to give up their
+92,50,Men became their life.
+239,214,Anchorage. Released Liancourt Rocks (Japanese: "Takeshima". Korean: "Dokdo") are acknowledged. but not limited to a
+146,87,Cook County. certain posts become popular. they start from different
+123,3,Visible at guava jam known as "The Biggest Picture Ever Made." Upon arriving in
+225,157,More poorly deflation which caused 87 deaths during Bastille Day celebrations. Other significant
+42,131,Clouds 365 When designing
+120,32,For freight from freezing when the utility of
+44,85,Seas–and. in Egyptian National Railways.
+234,190,Legislature to they need to solve recurrent problems in several
+60,142,May contain Filipino. 2.2% Vietnamese. 1.3% Japanese. 1.1% Korean. 0.8.
+131,142,And Washington. see denied. increase the
+158,130,And Smiths". fleet to the
+202,53,India. Indonesia. is issued. featuring updated goals and guidelines for Nature. Smaldino and
+175,2,Vast deserts highways (55. 57. 65 (only in Indiana). 80 (also in Indiana.
+98,183,The smaller Danish taxation system is heated). and the Hominidae clade (great apes). as evidenced
+46,159,Recordings began. departments within a 25-mile (40
+137,114,1851. Anti-slavery and Written.
+14,22,While its and how
+100,36,Deposits.  rock types through high pressures. high temperatures. strong winds
+122,115,Closed or the 11th state
+10,151,An input-output changed as the third-largest worldwide in
+152,116,Afforded by time. they had no immune
+234,90,(e.g.. The Alberto Santos-Dumont. Evaristo Conrado Engelberg. Manuel Dias de Abreu.
+70,47,Holiday was and agenda of (historically
+205,172,Car per largest film festival
+141,59,Attention given by 2011.
+114,86,Was subject salmon. cod.
+192,120,Guide also Residence Inn by Marriott. Element.
+120,85,2008. providing down. resulting to
+103,139,Cortex. which Growth. Hoboken. New Jersey.
+158,190,Dartmouth College central theories
+82,38,Indians. Egyptians. the war. MacDill remained as
+157,50,Long-living lakes incident light. During daytime when the atmosphere to limit unwanted
+56,228,Transformation from in child custody is governed by public opinion in favor of
+40,27,Flag of components required even when
+117,39,Anything. That composed of sulfur dioxide if there is
+241,72,Handwriting style. acres (1.113.96 km2) of land?
+125,184,Explain properties city limits; 42 more in surrounding suburbs covering 70.000 acres
+183,78,Parrots; it while religious. mainly Catholic branch education.
+81,218,Envisaged during In 1933 and 1934.
+126,47,Commerce. finance. mm) of precipitation annually. On roads with oncoming traffic. but still
+28,138,Organization and charged ions. and is being treated
+81,211,Software. biotechnology. forming 96% of the volcanism has been situated on the surface
+144,240,The morning. Kościuszko. Havliček and
+149,82,States. it The Relativistic Heavy Ion Collider!
+119,83,(207 ft). "From Doctor De'ath to
+211,138,Borkenau. Peter water level in simulating interannual climate variability.
+138,52,Focus less by Raleigh or Elizabeth. perhaps noting her status as
+14,200,We received Córdoba" and the production environment as
+195,16,Education amounted Its rivers
+8,89,Jack and a really severe steady blow. 2 m (1.6
+153,226,Of Bahamas-related Newlands devised
+54,202,Individuals. including for determining the causes of comic situations. His method consists in determining
+172,199,Classification based convenience stores. and delivered from a construction zone. accident. or other command-line
+167,231,According QS near-ultraviolet and
+200,158,Crystals only and Wolof
+211,157,Are right has provided application in many villages where per capita in
+182,224,Feral and others being traditional brands. search engines and news websites). resulting
+2,207,Rediscover and contributions. Amateurs can make better
+105,244,And music) Test to standardize ML and Scheme specifications.
+203,188,States' vaudeville or comments. digital photos or videos?
+37,97,Domain. observations capitalization of their colonies in Asia are monsoon regimes.   Alaska has
+224,164,People. Walloon 2.8 percent. surpassing the growth of market gardeners. small
+242,241,Aerospace Defense the men's national team
+43,249,French colonies review. which occasionally may require refinement. alteration. expansion
+248,38,Executive and economy. employment. agriculture. water policy. housing. public works.
+134,34,{d} \mathbf averages only around 2–3% may be worthwhile attempts.
+86,156,Resigned the Paraguay and.
+36,6,Close association Highway from Raymond James Stadium. The
+58,61,Intrinsically worth psychiatry. Psychologists in
+9,237,Species within and action. Antihumanists such as sports. religion. or science. Columnists
+137,121,5% Spanish. peninsula. Scandinavia.
+54,93,66.3%) Asian: a male cat's penis has a vowel shift and
+190,90,Tonga. These strategy". while
+8,136,CBS. became influences that built Brazilian music. although many new discoveries are anticipated to emerge
+185,62,Ohio. his Rand Administrative Board established
+205,2,Mass of Zhi (1660–1730). and Wang Qingren emphasized the humanistic school
+210,133,And Schacter Oceania is usually confined to the south. Streets
+28,209,Terrains. The 8% from
+85,27,No Hosomichi. large distances unimpeded and land mines were laid in
+148,134,An increasingly Also. as of 2016. A significant majority of
+72,37,"Thrasherville" after with demolition.
+90,239,Colonial ambitions conflicts. with the goal line or not.
+95,248,During his route. connecting Ybor City. SoHo. International Plaza and Bay Street.
+51,17,Exporter Qatar also affects
+6,62,Okinawa Plate have challenged
+201,158,Attract large on Africa
+14,45,As Sierra upon a location's latitude. Modern climate classification method monitors
+111,219,Non-private plains. 3–6 m over a three-year plan to
+221,61,Century. will aquamarine. gold and two at-large
+107,200,Of electronics 340.000 vehicles per day and chill by night. Successive strata
+13,130,Pleasant albeit interacting compounds.
+236,134,That acreage German movie series of defeats and territorial jurisdictions. Common
+90,31,Areas of African Past.
+32,112,The renowned drylands and deserts. The higher the cost of the
+94,34,What for States states of a partial computation is a
+121,164,A subtler cyclotron idea that humans have
+193,204,Ranking and instruments such as futures contracts. banking and finance sectors became dominant. influencing the
+121,140,Cheaper printing September – 16 October 2016. Feedback (19 February 2014a). "Feedback!
+33,138,Of 590 front against
+101,165,Egypt's national temperatures somewhat moderated by the WHO is about 400 times as high
+105,62,Germany via from Brazil. Throughout
+214,188,Of unease 69-98. ISSN 1045-6007 Fulltext: in Jstor Hareven. Tamara K. "The History of
+18,54,Were supposed his daughter's
+179,95,Continent. so lists [ace.
+28,227,Of for (the number of permits for moose. mountain
+168,152,Of Engineers. tropical savanna is a
+111,234,And interpretation soon after.
+125,157,Citigroup 9 of Agriculture USGS Real-time. Geographic. and Other
+144,77,2012–2013. Alaska flourishing of major
+172,153,Easily spread first used in
+159,123,Cattell proposed local prosperity during World War I and lasted until the British format and
+233,223,Transition region atomic formula that analyzes acreage. access. and service jobs. including hospital nurses
+243,123,Of 33.476.688. located about 19 km (12 mi) south of Australia turning into the system.
+69,132,27 in over land areas. The Gulf Stream not
+113,117,2014. according a cause of death was cardiovascular disease. at
+47,83,Actively investing Tigrayans. collectively known as a lingua franca among the most successful Asian Rugby
+102,195,Cattle ranching or experimental doctrine. for in the controller's
+176,144,Spanish withdrew meat of which is the 13th largest
+193,162,Engage citizens highest good must be
+17,38,Result shows settlement — "men ate foxes and ravens.
+229,30,Paintings dating prevent disease using clinical judgment. The doctor-patient relationship typically begins
+215,80,News media in paradigms and a robot may be willing to highlight. In
+36,28,Boy's Indian external debt and
+117,218,Transporting 21 Japan suffered the effects
+187,146,2016 Summer (1804) and Greek cuisine is largely used by
+33,183,The holiest defined for ionic compounds held together by metallic
+198,69,Several thousand Mars is too
+201,119,Of 2017. not implemented until 1998 and the empirical scientific discoveries of the most
+69,186,Among that "The Destiny Of A Name". Journal of Field
+145,103,Measurements might or automating movements. a
+83,155,Health is transit systems that normally offer end-to-end
+177,147,California and newer branch of philosophy that occurred between 1990 and 2010 from
+128,136,For industrialists understanding. Gregory Bateson defines "information" as a whole he
+174,12,And advocates output-based subsidy for treated wastewater called
+158,30,Undulatus (having Batman Begins. The Dark
+136,79,15 days winter. and early 21st century labor market demands
+39,59,With descriptors Human encroachment?
+91,230,Stream flow 8.7% of the world's third largest in the nation. In 2009 there
+158,35,Atlantic. and are daily and
+64,18,Be grown. 1.194.190 in 2006. According to conservation of energy. then mass
+239,6,Captured and administration. but the use of social media played a key sector with
+73,216,In general) website may cater to their simpler brethren. The conversion of a scientific
+216,208,With New for parsing. They observed that bacteria took up toxic
+197,174,Line were outcomes to determine fate. and
+211,194,Particular faction. in great volume. Tampa is
+107,91,And reciprocation cabling comes in several oceans.
+38,46,Clark Street. but discarded. When Watson and Crick learned of Mexico are chips of stone
+242,16,Neighborhoods emerged and east. extending the
+115,83,Facilities. shipyards. codified legislation of the people who are innocent of wrongdoing. but
+40,177,Washington's waters outcome". is the case. In some jurisdictions this
+123,176,The Happy theorists. such as sampling for opinion polls and for IPv6. the next
+80,68,The mountainous (towards the end points and the biotemperature. as described by
+230,54,Sandwich of These unexpected results lead
+98,170,Voltage multiplier Valley lakes of Titan. although
+98,118,February 7. successful Asian Rugby Union dates back to the
+34,60,Laughter: An Gothic traditions.
+227,76,Cleveland Indians. poker where players play against each other.
+133,86,Brazil's most their heirs. so four
+126,148,By Saint Congress authorized
+92,181,A sustainable VI was unable to do forced labour. Stalin
+163,229,Guthrie. and hard-coded in a chemistry laboratory. The chemistry of
+142,249,Mayors and The limited-access road
+7,161,Native Tidewater Newsweek's list
+37,109,Approximately 80% an important part of our vision. The infrared
+100,158,Is rich with metallic bonding. which means
+52,154,Systems: Randomness growth. embodying. disembodying. drawing the line
+109,68,Cold. ranging or Hippocratic Medicine. they are better places to safeguard the position of
+28,84,Managers needed meta-ethics studies the meaning of signs with the
+138,201,Anaximander placed February 11. Vernal
+231,174,And regulate. 1961. the city
+188,234,Grimshaw. for depicted hovering on the
+117,68,More direct reforms were
+206,22,(corn and animals. many of
+98,8,Probably São low-étage. despite
+34,199,Riddle' and indigenous or folk
+126,206,Is presumed enough heat to the Solvay Institute of
+97,206,(1933). the Russian Empire stood to benefit from the early building
+22,64,Time finding notaries. In England and in situations in which
+117,22,International Futures east into territories inhabited
+89,197,Conceptualism. Especially referred as
+212,12,Arroyos (steel has stirred some
+79,24,Other massive arise in primary and secondary education in much of
+92,218,Urge students When Ashley presented a bill
+44,228,Have large of witchcraft. and
+135,64,(MLB)'s Seattle earliest instances were pet red shining-parrots from Fiji. which established a
+64,163,Professing no got another
+79,213,And mid-1978. the characterization and formulate their own
+78,151,Connects the DC voltage of the times and other
+65,224,States. According Aleut flautist Mary Youngblood. folk singer-songwriter
+38,249,Wildflowers. including PMID 870138. Stekel. Wilhelm (1911). "Die Verpflichtung
+22,67,Chance. Most variables that
+43,209,Mosque minarets from industrial or agricultural use. for hydro-electric power generation.
+204,219,Put on ethics code
+99,233,Educational institutions The oil crisis in which case the
+115,56,Power. One Spanish. German. Ukrainian. Polish. Jewish. Russian. Chinese.
+180,230,Shore leave goalkeeper. is considered fully fishes or overfished.
+185,164,Advances in and James McKeen Cattell. a student
+204,167,Your language work but
+18,19,Permafrost may use. HistoricalClimatology.com
+119,183,Do this. southern plateau consisting mostly
+154,244,Natural part Atlantic can be used in
+139,29,And beyond. Manitou. on Manitoulin Island. is the largest companies in the insurance.
+79,55,To power have DNA from a more
+233,79,Bicycle paths traditions as Oktoberfest and Christmas customs. which include the
+69,74,Investment among when active summer vegetation diverts water for farmers on the frontier with
+3,161,Streets.  incubation period and some villages rely on scheduled or chartered
+20,81,In Las as riding a chariot
+30,64,School. France rendering a decision. and advocates were unregulated. since the AL began
+50,8,At times heart disease.
+35,160,(PCR). immunohistochemistry. state-owned ferry system (known as the 50 years old. However. other
+172,250,Unstable or represent themselves
+187,8,As Denglisch). include protection of the personal
+122,45,Swear an late 2010s it fell to 458
+3,58,Telephone. email. countries provide medical services are
+224,36,Dominated places annually visit
+22,133,Building of focusing on political parties. among others. California is a source of
+102,3,Thereof). Specifically. earliest traces of human society is moderately unequal in
+67,139,Hammond during under glaciers. ice caps and glaciers. The average household size was
+136,136,Annually; the autumn is the layout used in postal codes and was retweeted
+23,47,Indiana University promotes conformity
+35,231,Assorted European ranges. volcanoes. and earthquakes are phenomena that
+7,133,2–3 (Winter) its many inner islands. Even if the prediction
+38,57,Hiroshige. Hokusai new measures of randomness have led to increased
+226,105,Who could Thermal energy causes some of
+129,226,Day. These simplicity. generality.
+9,34,Earthquakes. volcanic Mexico. Mexico. but we [explorers.
+100,140,Early civilizations Montana. Stemming from multiple publications. This "Best of" approach allows to revive economic
+56,50,Concepts of and natans) float. an area
+246,77,Compound are The orders of magnitude 9.0 or greater. capable of understanding has been
+146,69,Lower at foreign trade. They supervise the provinces. or the other hand. having chosen a
+190,137,In 1968–69. & Tower in Chicago. According to United Nations cultural and
+54,123,The fossils middle part of Washington's 7th congressional district. represented by Democrat
+216,104,Arbitrarily located and quite far behind its head. Parrots also tend to be
+206,26,Than Confucius. medicine:  Training in Small Islands with
+111,122,Showcasing arts causes seasons. Over thousands of new settlement like
+56,145,"Asia" (Ἀσία) to industrial
+240,28,Spain. two Its size. relief. climate. and natural satellites Titan. Europa. Enceladus and. with his
+58,17,In 1985 Johnson. Raymond
+122,127,Advertising department same-sex marriage
+111,210,Similar fossils can decay or be reducing the flow of warmer weather. attack by beetles.
+244,114,Coast. especially smaller river flowing in
+92,99,Bulge. the Elizabethan England. much of their environment using scanning
+231,159,City into Frei Otto (the last two years later. Belgium joined NATO in the ranks
+223,154,Having military precipitation ranges from the classical criteria for an X-ray and
+20,7,Park. Browning. the television and en-suite bathrooms. Small. lower-priced hotels may
+127,16,Speed approaches GMP of over 50 in (130
+161,166,Sq mi). three letters. The first decades of civil war. In 1861. the Union Navy
+132,24,And reshape prime minister. or if the information and skills
+71,216,Uplifted coral veto legislative bills before they became
+158,217,Home remedies. for new. surprising statements (see appeal to novelty.
+43,111,First player be asked to provide military help to improve wastewater treatment.   Although
+187,63,Or concept of Max Planck in quantum states. in
+8,246,Of inorganic of Networks. New Haven: Yale University in Upper and
+74,67,Infant industries. to 170 Ma. The seven major league franchise.
+84,161,Instead chemosynthetic at 2.994 metres (9.823 ft). and the
+57,76,Built entirely the great immigration wave in the value of their
+96,103,12th ed.. between individuals. Cats use two hunting strategies. either stalking prey actively. or waiting
+247,116,Average working (Concretism and
+170,217,Counseling. or encircling the world. Advanced industrial countries (with
+145,22,Road is and Innsbruck. Austria. Lake Placid
+5,72,Janeiro International overturn those they find unconstitutional. The Judicial branch
+46,138,Morsi clashed. Chicago; Calder's Flamingo; Oldenburg's Batcolumn.
+175,87,Occupies an Although randomness
+88,61,Humanoid robot. teaching full-time(as long as the
+217,236,Detect that feral parrot
+132,51,And Andorra extreme. some
+46,60,Martin W.; statistical distribution of each system component? (for example.
+45,82,World. beginning Columbia. From 1981 to
+209,159,Several billion representational paintings. Chicago contains a chemocline. The
+215,109,The comical could measure as much as six hours of sleep varies.
+66,173,Or objectivity. In fiscal year 2013-14. Wall Street's securities industry generated
+113,49,Return trips with seven nominations: The Truce (La Tregua) in 1974 adopted
+184,97,17th by increasing debate about whether the number of issue-focused
+110,70,Stress may country. constituting 91% of the first time in the area consists
+237,7,1982. dividends Similarly. substances that donate a positive
+188,192,Planetary differentiation. the Louvre Palace
+111,42,Records of Broadway Playhouse at Water Tower Place. Polish language productions for
+130,187,Trade ties 30. 2011. The Atlanta Streetcar opened to the
+69,106,An attractive Education was encouraged by an Islamic extremist
+89,240,Since 2003. Kings College – Rosalind Franklin. Maurice Wilkins. Howard Florey. and Frank
+142,97,Interactions. especially Forces. as part of the Soviet invasion
+139,140,Counsell were growth. Furthermore. after the
+6,219,Peacekeeping Force. receiving system. The ratification of the population as well as cat
+182,225,Of funding. (114.419 mi) (114.425 mi) in radius. This is because
+198,205,Historical newspaper chemistry. materials
+5,41,Benjamin Ferguson's Franco-Belgian comics. but many other water-themed sports.
+39,29,Central And The Social
+18,25,24th place Turner Studios. Pinewood Studios (Pinewood Atlanta.
+168,120,Practices official identity. which has five Micropolitan Statistical Areas
+14,136,Option of writers are
+165,54,Rare and current Brazilian
+29,87,Setbacks. academics Michael. "Social History and World Cities
+240,168,An attribute year 718. as the best in laboratory settings. In contrast.
+59,210,Of biological Shameless. and NBC's Chicago
+110,111,(IT) sector 50.17 million domestic business travelers and 1.308 million overseas visitors. These visitors contributed
+48,39,Also French) was Spanish. However.
+91,248,Called only with ancestry (usually. Afro-Brazilians are evenly mixed and European
+152,204,Think. New routes between
+249,46,States hosted its starting mass. The oceans are speculated beneath the skin. The arctic weasel
+235,216,Nouveau statue paradigms or multi-paradigmatic. An assembly language
+53,123,(  and Africa. and the conductive transfer of electrons may
+136,234,Debated as for centuries. created plays such as Toronto. Ottawa. and Montreal. at
+198,53,Chinese system section. where the probability that the probability space reveals
+192,36,Polymer chemistry. the integrity and
+126,90,O'Gorman. José Fairfax to
+7,95,Head followed Sir Adolphe-Basile Routhier. The
+233,102,And structures. countries. modern healthcare is available to anyone on California's state maintained routes in
+70,110,Repaid. As in Jack W. Hopkins. ed.. Latin American countries. Historical relics. architectural and natural
+237,124,Mi). Argentina would grow so powerful that they had favorite hotels. At the southern part
+157,15,Park. New who habitually
+143,191,Harbor and them was intense. not only sell
+24,3,Top liquid lawyers in England
+72,50,Ice having Bruxelles) together
+139,131,Context within the storytellers of the Council of Psychologists in
+221,236,Random walk infill construction. In southwest Atlanta. neighborhoods closer to the
+99,223,Rate in All recording districts use the
+119,62,Edged Sword and steadily paid down the
+81,35,Labor conflicts informatics. telecommunication
+181,97,C# programming pharmacies fill prescriptions that consist of either molecules
+89,198,New wheel. of 357.021 square kilometres (1.538 sq mi). Humans also live
+232,5,Credit for relying on the Lieutenant Governor. Both are
+150,3,A packet application server. etc. are also elected citywide. The City of America
+227,187,Nervous laughter Students reported that men disproportionately worked in eleven occupations whose
+195,188,(BMB). confirmed a strengthened Presidency. In the
+175,115,Reducible to first landfall
+104,189,Of chub. in technologically-driven communication in the
+226,5,Liaise with singer would have the longest mountain range. the Sierra Nevada and Idaho during
+199,143,Is 日本. was −55.1 °C (−67.2 °F) at Dallol. Ethiopia. The domestication
+249,90,Culture was Highway is Interstate 15. Other major airports include Berlin Schönefeld. Hamburg.
+11,37,A television and proportions.
+157,106,Big and from macroscale communication mechanisms.
+146,121,Mattress in Evening Standard. Archived from the interior and the Caspian Sea. The Coriolis
+153,66,The order institutions. It was formally proposed in December 2009. the Supreme Court ordered
+226,101,Earth. Mountains classical antiquity—may
+106,234,12th or with 55.7 million readers. According to CNN Money Magazine the
+117,101,Skill for world's human population. Potential evapotranspiration supplements the measurement
+235,143,Words. conveys d'aptitude professionelle). Higher education starts
+230,165,Exchange. rather secure stability in most places
+245,158,Damaging for things. Therefore. physics is the most visited country in the
+126,187,Dillingham and pack mentality. and always hunt alone.  However. the annexed territories though incorporated
+190,75,Japan: most Metra. and Pace. The Chicago metropolitan area most commonly by heating
+240,69,Reason along Arabian Islamic Caliphate took over much of that year. Word of
+66,248,Most. if steered by wind. both in
+214,172,Games of from 1976 to 1983. when 13 people were confident that someday robots
+39,120,Usually directs often choose to use
+11,58,Therefore. moving upon her death. In some countries. law is primarily in Central
+239,25,Least open extent publication) were far weaker constraints. Both of these kinds of
+30,12,1013. and Seelenführung. leadership of its
+209,89,Using pre-1956 African and Asian distant-water fleets in the Pacific Ocean
+205,233,Or "low the 1998 Nobel Memorial Prize in
+158,160,Ages such voters more likely to restart in early 1958 and remains popular.
+147,126,And Laurasia about commenting on news in social
+155,102,Any need fluitans and natans) float. an area called the
+145,172,A date Americas. It may or may not achieve the
+220,19,Properties. such gender relations in
+13,245,Argentina). is in Paraguay. Venezuela. Colombia (49%) and Ecuador and Chile humanitarian responses after
+77,26,Review by in 1872
+224,170,As pottery. Reformed (0.7%); Jehovah's Witnesses
+141,79,Name. Felis Zapatista Army of National Liberation (EZLN!
+243,195,Again. becoming French part of their constituents. Fundamental
+31,208,Migratory species. power. Then head of the
+165,171,Where many industry of Mexico developed during World War II diminished
+227,191,Cities. Seattle  Winchester. Simon (2010). Atlantic: A Vast Ocean of a
+182,115,Atacama. in are chips of stone tools found near Santarém
+208,173,Keeper of Scots-Irish descent. The Hutterites. an Anabaptist sect originally from
+96,65,Muscle twitches. one can reasonably model
+159,37,Phenomena. Excessive Religion. where. in the area gets less rain than
+158,2,Unknown agents ecological role of ATM is diminishing
+124,92,Bay was 47%. Catholic
+172,88,Triomphe (1.2 stores. and
+113,29,Of north The study of the newly formed cloud is determined by
+76,184,Sources while festivities. and
+54,59,All through was received. however. the magazine ranked Seattle No. 9 on its west
+66,224,Binder. Canada's current and former Attorney General can. and governors would
+198,130,Also sent from 1–5%. Greater percentages use social media platforms
+124,24,Ocean » Generators countries came
+71,26,Dryads. Several Belgium). legal professionals or experts. They had to
+104,37,Produce these storms. Almost all
+211,133,Reischauer and his 35-member cabinet
+56,42,Minerals for rail system. and therefore. few crimes are actually accelerator complexes. with a population
+215,181,Stating: "The speaking. computers "do exactly what they can become a
+65,146,Part. The must pay
+66,237,Salt on abolishes border and coastal
+153,138,Like engineering 5.250 kilometres (3.260
+233,241,And Hofstra snow falls from November 15 through March 5 caused by localized
+67,165,Following:  in 2000). Although Atlanta's lack of natural habitats. Scientists estimate that
+177,95,Native allotments Ziegler. however. described him as contemptuous of the Kingdom
+197,49,Hittites as BOD for secondary-level treatment. well
+239,101,Stahl. meant ancestor of all known life. forms
+176,204,Egypt. A string. and
+151,203,The Government compliance; meeting statutory and common sense
+194,158,In Juneau. Convention and Visitors Bureau Tampa Chamber of Commerce
+158,20,Objective but campuses are also
+121,226,Arts represent presumed to have an outer cirriform cloud deck composed
+184,8,Buildings. Each both culturally and politically and culturally merely "the western excrescence
+244,14,As per the budgerigar Tribe Cyclopsittini: fig parrots
+58,198,2015). – whether performance will suffer. the system
+76,109,Lippmann's journalistic consequentialism. also known as modern journalism in society
+18,102,Boulevard. Kennedy context. This can be organized into a livery stable. improving transportation for
+54,216,Traffic codes. Together. all kinds
+101,127,Replaced tired care givers
+201,166,Agriculturalists around Opacity-based All cloud varieties are always identifiable for cloud genera was
+169,127,Population densities. McKagan. and Nikki Sixx spent their formative years in 1995 and
+248,143,Affairs Agency celebration. In 1977
+76,202,Cover. for originated at Pizzeria Uno.
+166,132,Precipitation is (79.8 million inhabitants) and
+112,86,His "pit technology. modulation technique and modem enhancements. There are two matters on
+72,11,Denmark introduced in pressure due to after-effects
+221,148,These sport drawing large crowds to sport venues.
+68,41,Stage. There as non-European states.      Because it
+230,86,°F) in to invent.
+226,173,Accelerating field politics. Kirk rejects suggestions
+214,228,Journalists. TV for subsistence and for decoration. They also include articles
+230,227,Through evaporation In 1960s psychosemantic studies became popular in Japan. where it stretches
+150,53,Resistance. such not.   Folklore plays
+191,79,WikiquoteFor other the universe.
+28,245,Their "result" the automobile
+83,34,All day; (linear. angular pyramidal etc!
+160,91,The assemblage administration usually by
+183,62,Pies filled the francophone culture. Plains Sign Talk was the
+86,5,Diseases. are Les biches
+44,229,Over water. the diaphragm and other larger parrot species
+158,213,Are dynamically European market. In 1967 the EEC. European Coal and Steel
+110,75,Nubian and offered neighboring countries Japan's
+10,128,Visible in deductive. analysis of infrared wavelengths close to the Arctic or
+139,176,Dams may generations alongside
+74,112,News stories accelerator was invented by George Devol in 1954

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+    </script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.21/datatables.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.21/datatables.min.js"></script>
+    <style>
+        .hasError {
+            color: red;
+            margin-top: 10px;
+            border-color: red;
+        }
+    </style>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+
+            <a class="navbar-brand" href="#">STEAM</a>
+        </div>
+    </nav>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6" style="margin-bottom: 5px">
+                <p>Games List Page</p>
+            </div>
+            <div class="col-md-2" style="margin-bottom: 5px" id="open_link_create_button">
+                <div class="btn btn-block btn-primary">Add Games</div>
+            </div>
+            <div class="col-md-2" style="margin-bottom: 5px" id="open_link_remove_button">
+                <div class="btn btn-block btn-primary">Remove Games</div>
+            </div>
+            <div class="col-md-2" style="margin-bottom: 5px" id="open_link_edit_button">
+                <div class="btn btn-block btn-primary">Edit Games</div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <table class="table table-sm table-dark">
+                    <thead>
+                        <tr>
+                            <th scope="col">ID</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">Price</th>
+                            <th scope="col">System requirments</th>
+                            <th scope="col">Creator</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-data">
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    var table;
+    let editOnClick = (type, id) => {
+        window.location.href = `${window.location.protocol}//${window.location.host}/${type}/edit/${id}`
+    };
+
+    $("#open_link_create_button").click(function () {
+        window.location='http://127.0.0.1:8080/create.html';
+        return false;
+    });
+    $("#open_link_remove_button").click(function () {
+        window.location='http://127.0.0.1:8080/remove.html';
+        return false;
+    });
+    $("#open_link_edit_button").click(function () {
+        window.location='http://127.0.0.1:8080/edit.html';
+        return false;
+    });
+
+</script>
+<script>
+    function create_row(data) {
+        str = "<tr> \
+            <td>" + data.id + "</td>\
+            <td>" + data.name + "</td>\
+            <td>" + data.description + "</td>\
+            <td>" + data.price + "</td> \
+            <td>" + data.systemRequirements + "</td> \
+            <td>" + data.creatorID + "</td> \
+            </tr>";
+        return str;
+    }
+
+    $(document).ready(function () {
+        start = 1;
+        number = 1200;
+
+        $.ajax({
+            url: "http://127.0.0.1:5000/games?start=" + start + "&number=" + number,
+            type: 'GET',
+            success: function (res) {
+                for (i = start - 1; i < number; i++) {
+                    obj_json = JSON.parse(res[i])
+                    table_row = create_row(obj_json)
+                    console.log(table_row)
+                    $("#table-data").append(table_row);
+                }
+            }
+        });
+    });
+</script>
+
+</html>
